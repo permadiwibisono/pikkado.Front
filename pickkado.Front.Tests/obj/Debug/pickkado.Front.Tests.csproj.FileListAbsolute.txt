@@ -1,0 +1,1484 @@
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Client.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Back.ServiceModel.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Interfaces.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Text.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Client.xml
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Back.ServiceModel.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Text.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Client.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Back.ServiceModel.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Interfaces.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Text.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Client.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Back.ServiceModel.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Text.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Back.ServiceInterface.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Common.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Back.ServiceInterface.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Front.Tests\bin\Debug\ServiceStack.Common.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.4\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\unirest-net.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\unirest-net.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\unirest-net.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll.config
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.Tests.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Optimization.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Owin.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGridMail.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\SendGrid.SmtpApi.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Front.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Helpers.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Mvc.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\System.Spatial.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\EntityFramework.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\Facebook.xml
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Front.Tests\obj\Debug\pickkado.Front.Tests.csprojResolveAssemblyReference.cache

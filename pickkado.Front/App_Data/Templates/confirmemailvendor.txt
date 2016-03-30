@@ -1,0 +1,49 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" >
+</head>
+<body style="color:black; font-size:15px;">
+<font face="Helvetica, Arial, sans-serif">
+
+
+<div class="container-fluid" style="padding:0;">
+    <div style="width:100%;padding:30px;background-color:#5db194">
+        <img src="{0}" />
+    </div>
+
+    <div style="background-color: #ece8d4; width:100%; padding:30px;">
+
+        <strong>Dear {1},</strong>
+            <br />
+            <br />
+			<p>Thanks for join to be our vendor in pickkado.com. Please confirm your account by clicking this <a href="{2}">link</a></p>
+            <br />
+        <p>
+        Your account information:<br /></p>
+        <table >
+            <tr>
+                <td>Email</td>
+                <td>:</td>
+                <td>{3}</td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>:</td>
+                <td>{4}</td>
+            </tr>
+        </table>
+
+        <br/>
+        <strong>Thank you,</strong>
+        <br/>
+        <br/>
+        <p>pickkado's Team</p>
+    </div>
+
+</div>
+</body>
+    <div class="footer">
+        Sent from pickkado.com.
+    </div>
+</html>

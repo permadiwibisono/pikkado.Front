@@ -1,0 +1,87 @@
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.7.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.7.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.8.1\pickkado v0.8.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.8.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.9.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.9.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.9.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.9.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.9.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.9.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.9.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\Tranquility\Pickkado\Code\pickkado v0.9.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\Tranquility\Pickkado\Code\pickkado v0.9.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\Tranquility\Pickkado\Code\pickkado v0.9.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.9.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.5\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.6\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.7\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.7\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.7\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.8\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.10.9\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.csprojResolveAssemblyReference.cache
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.1\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Entities\bin\Debug\pickkado.Entities.pdb
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.dll
+E:\My Document\Software engineer\Codes\pickkado v0.11.2\pickkado.Front\pickkado.Entities\obj\Debug\pickkado.Entities.pdb

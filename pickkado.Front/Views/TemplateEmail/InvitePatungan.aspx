@@ -1,0 +1,60 @@
+﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage<dynamic>" %>
+<!DOCTYPE html>
+<html>
+<head id="Head1" runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <title>Invite Patungan</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" >
+</head>
+<body style="color:black; font-size:15px;">
+<font face="Helvetica, Arial, sans-serif">
+
+<div class="container-fluid" style="padding:0;">
+    <div style="width:600px; margin:auto;">
+        
+        <div style="background-color:#5db194; width:100%;" >
+            <div style="width:300px; margin:auto;">
+                <img src="http://pickkado.somee.com/Images/icon/brand.png" style="width:300px;" />
+
+            </div>
+        </div>
+
+        <div style="padding:30px;background-color: #ece8d4;">
+
+            <strong>Halo {0},</strong>
+                <br />
+                <br />
+            <p>Kamu telah diundang oleh {1} untuk ikut patungan membeli kado untuk {6}.
+                Total patungan perorangnya <strong>{2}</strong> paling lambat tanggal <strong>{3}</strong>.
+            </p>
+            <br />
+            <div style="padding:0px 30px; padding-bottom:30px">
+              <p style="font-size:18px">"{4}"</p>
+              <footer> - {1} in <cite>pickkado.com</cite></footer>
+            </div>
+            <div style="text-align:center;">
+                <a href="{5}" style="color:#333;background-color:white; text-decoration:none;border: 1px solid transparent;display: inline-block;border-radius: 4px;cursor: pointer;border-color:#adadad;padding: 6px 12px;text-align: center;white-space: nowrap;
+                    vertical-align: middle;line-height: 1.42857143; font-size:18px">Ikut Patungan</a>
+            </div>
+            <br/>
+            <br/>
+            <br/>
+            <div style="margin:30px 0px;">
+                <strong>Terima Kasih,</strong>
+                <br/>
+                <br/>
+                <p>pickkado's Team</p>
+            </div>
+            <div style="border-top:1px solid gray;padding:10px 0px; font-size:12px">
+                Seluruh undangan anda dapat anda lihat pada halaman <span style="color:#5db194; font-weight:bold">Invitation</span> pada profil anda.
+            </div>
+        </div>
+        <footer>
+            Sent from pickkado.com.
+        </footer>
+
+    </div>
+</div>
+</body>
+</html>
+
