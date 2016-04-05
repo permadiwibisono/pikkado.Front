@@ -216,9 +216,14 @@ namespace pickkado.Front.Controllers
                         inValidCount++;
                         return View(model);
                     }
-                    if (model.DateReceive == 0 || model.MonthReceive == 0 || model.YearReceive == 0)
+                    if (model.SendDate == null)
                     {
-                        ModelState.AddModelError("", "Received date is required!");
+                        ModelState.AddModelError("", "Send date is required!");
+                        inValidCount++;
+                    }
+                    if (model.SendDate < DateTime.Now.AddDays(5))
+                    {
+                        ModelState.AddModelError("", "Minimum Send date is the next 5 days!");
                         inValidCount++;
                     }
                     if (model.IsPatungan)
@@ -344,7 +349,7 @@ namespace pickkado.Front.Controllers
                     var transaction = new Transaction();
                     transaction.Id = model.TransactionId;
                     transaction.TransDate = model.TransactionDate;
-                    transaction.TanggalKirim = DateTime.Parse(model.purchaseInfo.DateReceive.ToString() + '/' + model.purchaseInfo.MonthReceive.ToString() + '/' + model.purchaseInfo.YearReceive.ToString());
+                    transaction.TanggalKirim = model.purchaseInfo.SendDate;
                     var user = await UserManager.FindByNameAsync(User.Identity.Name);
                     if (user != null)
                     {
@@ -670,6 +675,8 @@ namespace pickkado.Front.Controllers
             patungan.Name = userDb.FirstName + ' ' + userDb.LastName;
             patungan.Price = float.Parse(totalPerorangan.ToString());
             patungan.TransactionId = transaction.Id;
+            patungan.BatasWaktu = transaction.TanggalKirim;
+            patungan.ShareCode = new Guid();
             patungan.CreatedBy = transaction.UserId;
             patungan.CreatedDate = DateTime.Now;
             patungan.UpdatedBy = transaction.UserId;

@@ -170,10 +170,8 @@
     <%: Scripts.Render("~/bundles/jqueryval") %>
     <script type="text/javascript">
         $('#paymentConfirmation').click(function () {
-            $.get('<%:Url.Action("paymentconfirm", "popup", new {transId=ViewContext.RouteData.Values["id"]})%>',
-            function (data) {
-                $("#popup").html(data);
-            });
+            ShowPopup('<%:Url.Action("paymentconfirm", "popup", new {transId=ViewContext.RouteData.Values["id"]}%>');
+            
         });
     </script>
 </asp:Content>

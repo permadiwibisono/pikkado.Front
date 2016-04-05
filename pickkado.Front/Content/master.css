@@ -86,7 +86,7 @@
     color:#5db194;
     text-decoration:underline;
 }
-.btn-login {
+.btn-login,.btn-login[disabled]:hover,.btn-login[disabled]:focus {
     background-color:#5db194;
     border:1px solid #5db194;
     color:white;
@@ -445,3 +445,24 @@
             .testi .thumbnail blockquote footer {
                 font-weight:bold;
             }
+
+/*loader*/
+.loader {
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    z-index: 1500;
+    background-color:rgba(0,0,0,0.5);
+    height:100%;
+    width:100%;
+}
+    .loader .loader-content {
+        position:fixed;
+        top:50%; 
+        left:50%;transform:translate(-50%,-50%);
+        z-index: 1500;
+        width:250px;
+        color:white;
+        text-align:center;
+    }

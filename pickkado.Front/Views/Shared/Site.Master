@@ -11,15 +11,15 @@
         <link href="../../Content/lib/css/animate.min.css" rel="stylesheet" />
         <script src="../../Scripts/jquery-1.10.2.js"></script>
         <script src="../../Scripts/jquery-ui-1.8.24.js"></script>
-        <script src="../../Scripts/validation-summary.js"></script>
         <link href="../../Content/bs-override.css" rel="stylesheet" />
+        <link href="../../Content/lib/css/font-awesome.min.css" rel="stylesheet" />
         <%: Scripts.Render("~/bundles/modernizr") %>
         <%: Scripts.Render("~/bundles/bootstrap") %>
         <%--<%: Styles.Render("~/Content/bootstrap") %>--%>
         <%: Styles.Render("~/Content/css/master") %>
     </head>
     <body>
-        <div id="popup">
+        <div id="popup" class="modal fade" role="dialog">
 
         </div>
         <nav class="navbar navbar-default navbar-fixed-top" >
@@ -60,6 +60,14 @@
         <div id="body">
             <asp:ContentPlaceHolder ID="FeaturedContent" runat="server" />
             <section class="content-wrapper main-content clear-fix">
+                <div class="loader" style=" display:none ">
+                    <div class="loader-content">
+                        <div >
+                            <i class="fa fa-spinner fa-pulse fa-3x"></i>
+                        </div>
+                        <div >Loading</div>
+                    </div>
+                </div>
                 <asp:ContentPlaceHolder ID="MainContent" runat="server" />
             </section>
         </div>
@@ -67,6 +75,8 @@
         
         <asp:ContentPlaceHolder ID="ScriptsSection" runat="server" />
         <script src="../../Scripts/validation-summary.js"></script>
+        <script src="../../Scripts/jquery.zoom.min.js"></script>
+        <script src="../../Scripts/master.js"></script>
     <footer class="footer">
         <div class="container">
             <div class="footer-item row" >
@@ -126,42 +136,5 @@
             </div>
         </div>
     </footer>
-        <script>
-            $(document).ready(function () {
-                if ($(this).scrollTop() > 250) {
-                    console.log("add class");
-                    $('.navbar').addClass('navbar-default-inverse');
-                }
-                else {
-                    $('.navbar').removeClass('navbar-default-inverse');
-                }
-                $(document).scroll(function () {
-                    //console.log($(this).scrollTop());
-                    if ($(this).scrollTop() > 250) {
-                        $('.navbar').addClass('navbar-default-inverse');
-                    }
-                    else {
-                        $('.navbar').removeClass('navbar-default-inverse');
-                    }
-                });
-                function goToByScroll(id) {
-                    // Reove "link" from the ID
-                    id = id.replace("link", "");
-                    // Scroll
-                    $('html,body').animate({
-                        scrollTop: $("#" + id).offset().top-50
-                    },
-                        'slow');
-                }
-                $('#navbar > ul li>a').click(function (e) {
-
-                    // Prevent a page reload when a link is pressed
-                    //e.preventDefault();
-                    // Call the scroll function
-                    goToByScroll($(this).attr("id"));
-                });
-
-            });
-        </script>
     </body>
 </html>

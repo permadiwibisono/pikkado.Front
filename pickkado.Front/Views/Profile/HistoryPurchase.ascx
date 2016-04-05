@@ -1,4 +1,5 @@
 ﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<List<pickkado.Entities.Transaction>>" %>
+<%@ Import Namespace="pickkado.Front" %>
 
 <div style="padding: 50px; margin-left: 120px">
     <div class="container-fluid title-underline">
@@ -50,7 +51,7 @@
                                 </td>
                                 <td>:</td>
                                 <td style="padding-left: 10px">
-                                    <%: m.GetTotalPrice() %>
+                                    <%: m.GetTotalPrice().ToRupiah() %>
                                 </td>
                             </tr>
                             <%if (m.IsGroup)
@@ -60,7 +61,7 @@
                                 </td>
                                 <td>:</td>
                                 <td style="padding-left: 10px;">
-                                    <%:m.TransactionMemberGroups.Where(a => a.UserId == userLogin.Id).ToList()[0].Price %>
+                                    <%:m.TransactionMemberGroups.Where(a => a.UserId == userLogin.Id).ToList()[0].Price.ToRupiah() %>
                                 </td>
                             </tr>
                             <%} %>
@@ -207,7 +208,7 @@
                                                 </td>
                                                 <td>:</td>
                                                 <td style="padding-left: 10px">
-                                                    <%:m.ProductPrice %>
+                                                    <%:m.ProductPrice.ToRupiah() %>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -215,7 +216,7 @@
                                                 </td>
                                                 <td>:</td>
                                                 <td style="padding-left: 10px">
-                                                    <%:m.PackagePrice %>
+                                                    <%:m.PackagePrice.ToRupiah() %>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -223,7 +224,7 @@
                                                 </td>
                                                 <td>:</td>
                                                 <td style="padding-left: 10px">
-                                                    <%:m.GreetingCardPrice %>
+                                                    <%:m.GreetingCardPrice.ToRupiah() %>
                                                 </td>
                                             </tr>
                                         </table>
@@ -235,7 +236,7 @@
                                                 </td>
                                                 <td>:</td>
                                                 <td style="padding-left: 10px">
-                                                    <%:m.ShippingFee %>
+                                                    <%:m.ShippingFee.ToRupiah() %>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -243,7 +244,7 @@
                                                 </td>
                                                 <td>:</td>
                                                 <td style="padding-left: 10px">
-                                                    <%:m.ServiceFee %>
+                                                    <%:m.ServiceFee.ToRupiah() %>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -251,7 +252,7 @@
                                                 </td>
                                                 <td>:</td>
                                                 <td style="padding-left: 10px">
-                                                    <%:m.DiscountVoucherPrice %>
+                                                    <%:m.DiscountVoucherPrice.ToRupiah() %>
                                                 </td>
                                             </tr>
                                         </table>

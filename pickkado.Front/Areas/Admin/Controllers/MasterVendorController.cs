@@ -129,60 +129,73 @@ namespace pickkado.Front.Areas.Admin.Controllers
                 {
                     if (string.IsNullOrEmpty(id))
                     {
-                        var store = new Store();
-                        store.Name = model.Name;
-                        store.Address = model.Address;
-                        store.Kelurahan = model.Kelurahan;
-                        store.Kecamatan = model.Kecamatan;
-                        store.Kota = model.Kota;
-                        store.PhoneNumber = model.PhoneNumber;
-                        store.WebAddress = model.WebAddress;
-                        store.CreatedBy = "Admin";
-                        store.CreatedDate = DateTime.Now;
-                        store.UpdatedBy = "Admin";
-                        store.UpdatedDate = DateTime.Now;
-                        store.Email = model.Email;
-                        store.Id = store.GenerateId("ST");
-
-                        //db.Store.Add(store);
-                        //db.SaveChanges();
-                        string password = 'P'+RandomString(4)+';';
-                        var user = new ApplicationUser
+                        var getUser = await UserManager.FindByEmailAsync(model.Email);
+                        if (getUser != null)
                         {
-                            UserName = model.Email,
-                            Email = model.Email,
-                            PhoneNumber = model.PhoneNumber,
-                            //UserId=store.Id
-                        };
-                        var result = await UserManager.CreateAsync(user, password);
-                        if (result.Succeeded)
-                        {
-
-                            db.Store.Add(store);
-                            db.SaveChanges();
-                            var code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
-                            UserManager.AddToRoles(user.Id, "Vendor");
-                            var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
-                            string body;
-                            //Read template file from the App_Data folder
-                            using (var sr = new StreamReader(Server.MapPath("\\App_Data\\Templates\\") + "confirmemailvendor.txt"))
+                            var store = new Store();
+                            store.Name = model.Name;
+                            store.Address = model.Address;
+                            store.Kelurahan = model.Kelurahan;
+                            store.Kecamatan = model.Kecamatan;
+                            store.Kota = model.Kota;
+                            store.PhoneNumber = model.PhoneNumber;
+                            store.WebAddress = model.WebAddress;
+                            store.CreatedBy = "Admin";
+                            store.CreatedDate = DateTime.Now;
+                            store.UpdatedBy = "Admin";
+                            store.UpdatedDate = DateTime.Now;
+                            store.Email = model.Email;
+                            store.Id = store.GenerateId("ST");
+                            var userDb = new User
                             {
-                                body = sr.ReadToEnd();
+                                StoreId = store.Id,
+                                Email = store.Email
+                            };
+                            userDb.Id = userDb.GenerateId("U");
+                            db.Store.Add(store);
+                            db.User.Add(userDb);
+                            int count= await db.SaveChangesAsync();
+                            if (count > 0)
+                            {
+                                string password = 'P' + RandomString(4) + ';';
+                                var user = new ApplicationUser
+                                {
+                                    UserName = model.Email,
+                                    Email = model.Email,
+                                    PhoneNumber = model.PhoneNumber,
+                                    UserId = userDb.Id
+                                };
+                                var result = await UserManager.CreateAsync(user, password);
+                                if (result.Succeeded)
+                                {
+                                    var code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                                    UserManager.AddToRoles(user.Id, "Vendor");
+                                    var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                                    string body;
+                                    //Read template file from the App_Data folder
+                                    using (var sr = new StreamReader(Server.MapPath("\\App_Data\\Templates\\") + "confirmemailvendor.txt"))
+                                    {
+                                        body = sr.ReadToEnd();
+                                    }
+                                    var pathLogo = Server.MapPath("\\Images\\") + "brand.png";
+                                    var byteLogo = System.IO.File.ReadAllBytes(pathLogo);
+                                    string messageBody = string.Format(body, "data:image/png;base64," + System.Convert.ToBase64String(byteLogo), store.Name, callbackUrl, store.Email, password);
+
+                                    await UserManager.SendEmailAsync(user.Id, "Confirm your account", messageBody);
+
+                                    ViewBag.Link = callbackUrl;
+                                    TempData["Success"] = " insert data";
+                                    return RedirectToAction("edit", new { id = store.Id });
+                                }
+                                else
+                                {
+                                    TempData["Error"] = " insert data";
+                                    db.User.Remove(userDb);
+                                    db.Store.Remove(store);
+                                    await db.SaveChangesAsync();
+                                    return View(model);
+                                }
                             }
-                            var pathLogo = Server.MapPath("\\Images\\") + "brand.png";
-                            var byteLogo = System.IO.File.ReadAllBytes(pathLogo);
-                            string messageBody = string.Format(body, "data:image/png;base64," + System.Convert.ToBase64String(byteLogo), store.Name, callbackUrl, store.Email, password);
-
-                            await UserManager.SendEmailAsync(user.Id, "Confirm your account", messageBody);
-
-                            ViewBag.Link = callbackUrl;
-                            TempData["Success"] = " insert data";
-                            return RedirectToAction("edit", new { id = store.Id });
-                        }
-                        else
-                        {
-                            TempData["Error"] = " insert data";
-                            return View(model);
                         }
                     }
                     else if (db.Store.Where(e => e.Id.Contains(id)).ToList().Count != 0)

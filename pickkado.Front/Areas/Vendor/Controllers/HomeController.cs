@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace pickkado.Front.Areas.Vendor.Controllers
 {
+    [AuthorizeCustom(Roles = "Vendor")]
     public class HomeController : Controller
     {
         //

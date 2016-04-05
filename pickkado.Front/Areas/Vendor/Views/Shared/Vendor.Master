@@ -42,7 +42,7 @@
                         <button type="button" class="navbar-right-expand-toggle pull-right visible-xs">
                             <i class="fa fa-times icon"></i>
                         </button>
-                        <li class="dropdown">
+                        <li class="dropdown" style="display:none">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-comments-o"></i></a>
                             <ul class="dropdown-menu animated fadeInDown">
                                 <li class="title">
@@ -53,7 +53,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="dropdown danger">
+                        <li class="dropdown danger" style="display:none" >
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-star-half-o"></i> 4</a>
                             <ul class="dropdown-menu danger  animated fadeInDown">
                                 <li class="title">
@@ -86,22 +86,7 @@
                             </ul>
                         </li>
                         <li class="dropdown profile">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Emily Hart <span class="caret"></span></a>
-                            <ul class="dropdown-menu animated fadeInDown">
-                                <li class="profile-img">
-                                    <img src="../img/profile/picjumbo.com_HNCK4153_resize.jpg" class="profile-img">
-                                </li>
-                                <li>
-                                    <div class="profile-info">
-                                        <h4 class="username">Emily Hart</h4>
-                                        <p>emily_hart@email.com</p>
-                                        <div class="btn-group margin-bottom-2x" role="group">
-                                            <button type="button" class="btn btn-default"><i class="fa fa-user"></i> Profile</button>
-                                            <button type="button" class="btn btn-default"><i class="fa fa-sign-out"></i> Logout</button>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                            <asp:ContentPlaceHolder runat="server" ID="navBar"></asp:ContentPlaceHolder>
                         </li>
                     </ul>
                 </div>
@@ -111,7 +96,7 @@
                     <div class="side-menu-container">
                         <div class="navbar-header">
                             <a class="navbar-brand" href="#">
-                                <div class="icon fa fa-paper-plane"></div>
+                                <div class="icon fa fa-user-secret"></div>
                                 <div class="title">pickkado vendor</div>
                             </a>
                             <button type="button" class="navbar-expand-toggle pull-right visible-xs">
@@ -119,19 +104,30 @@
                             </button>
                         </div>
                         <ul class="nav navbar-nav">
-                            <li class="menu" id="admin">
-                                <a href="../../../admin">
+                            <li class="menu" id="vendor">
+                                <a href="../../../vendor">
                                     <span class="icon fa fa-tachometer"></span><span class="title">Dashboard</span>
                                 </a>
                             </li>
+                            <li class="menu" id="norekening">
+                                <a href="../../../vendor/norekening">
+                                    <span class="icon fa fa-cc-mastercard"></span><span class="title">No. Rekening</span>
+                                </a>
+                            </li>
+
                             <li class="menu" id="product">
-                                <a href="#">
+                                <a href="../../../vendor/product">
                                     <span class="icon fa fa-desktop"></span><span class="title">My Products</span>
                                 </a>
                             </li>
-                            <li class="menu" id="notification">
-                                <a href="#">
+                            <li class="menu" id="order">
+                                <a href="../../../vendor/order">
                                     <span class="icon fa fa-archive"></span><span class="title">Order</span>
+                                </a>
+                            </li>
+                            <li class="menu" id="money">
+                                <a href="../../../vendor/product">
+                                    <span class="icon fa fa-money"></span><span class="title">Withdrawal</span>
                                 </a>
                             </li>
                             <li  class="menu" id="report">
@@ -147,6 +143,15 @@
             <!-- Main Content -->
             <div class="container-fluid">
                 <div class="side-body padding-top">
+                    <!-- Loader -->
+                    <div class="loader" style=" display:none; ">
+                        <div class="loader-content">
+                            <div >
+                                <i class="fa fa-spinner fa-pulse fa-3x"></i>
+                            </div>
+                            <div >Loading</div>
+                        </div>
+                    </div>
                     <!-- Modal -->
                     <div class="modal fade " id="dataConfirmModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog modal-sm">

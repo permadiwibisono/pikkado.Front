@@ -307,10 +307,18 @@
     <Compile Include="Areas\Admin\Views\Shared\Admin.Master.designer.cs">
       <DependentUpon>Admin.Master</DependentUpon>
     </Compile>
+    <Compile Include="Areas\Vendor\Controllers\AccountController.cs" />
     <Compile Include="Areas\Vendor\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Vendor\Controllers\NoRekeningController.cs" />
+    <Compile Include="Areas\Vendor\Controllers\OrderController.cs" />
+    <Compile Include="Areas\Vendor\Controllers\PopupController.cs" />
     <Compile Include="Areas\Vendor\Controllers\ProductController.cs" />
     <Compile Include="Areas\Vendor\Models\NewProductViewModel.cs" />
+    <Compile Include="Areas\Vendor\Models\NoRekeningViewModel.cs" />
+    <Compile Include="Areas\Vendor\Models\OrderViewModel.cs" />
+    <Compile Include="Areas\Vendor\Models\PopupViewModel.cs" />
     <Compile Include="Areas\Vendor\Models\ProductViewModel.cs" />
+    <Compile Include="Areas\Vendor\Models\ProfileViewModel.cs" />
     <Compile Include="Areas\Vendor\Models\RowAttributeViewModel.cs" />
     <Compile Include="Areas\Vendor\VendorAreaRegistration.cs" />
     <Compile Include="Areas\Vendor\Views\Shared\Vendor.Master.cs">
@@ -357,6 +365,30 @@
     <Compile Include="Migrations\201603250216330_UpdateTableTransactionGiftCard.Designer.cs">
       <DependentUpon>201603250216330_UpdateTableTransactionGiftCard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201604021908220_UpdateManyTable.cs" />
+    <Compile Include="Migrations\201604021908220_UpdateManyTable.Designer.cs">
+      <DependentUpon>201604021908220_UpdateManyTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201604032127221_UpdateTableVendorPayment.cs" />
+    <Compile Include="Migrations\201604032127221_UpdateTableVendorPayment.Designer.cs">
+      <DependentUpon>201604032127221_UpdateTableVendorPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201604032324598_UpdateTableVendorPayment1.cs" />
+    <Compile Include="Migrations\201604032324598_UpdateTableVendorPayment1.Designer.cs">
+      <DependentUpon>201604032324598_UpdateTableVendorPayment1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201604040651093_UpdateTableVendorPayment2.cs" />
+    <Compile Include="Migrations\201604040651093_UpdateTableVendorPayment2.Designer.cs">
+      <DependentUpon>201604040651093_UpdateTableVendorPayment2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201604040810371_UpdateTableVendorPayment3.cs" />
+    <Compile Include="Migrations\201604040810371_UpdateTableVendorPayment3.Designer.cs">
+      <DependentUpon>201604040810371_UpdateTableVendorPayment3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201604051614445_UpdateTableTransactionMemberGroup.cs" />
+    <Compile Include="Migrations\201604051614445_UpdateTableTransactionMemberGroup.Designer.cs">
+      <DependentUpon>201604051614445_UpdateTableTransactionMemberGroup.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModel.cs" />
     <Compile Include="Models\AccountModels.cs" />
@@ -365,6 +397,7 @@
     <Compile Include="Models\GiftCardInviteViewModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\InputGiftcardMessageViewModel.cs" />
+    <Compile Include="Models\InputPatunganViewModel.cs" />
     <Compile Include="Models\InvitationGiftCardViewModel.cs" />
     <Compile Include="Models\OrderViewModel.cs" />
     <Compile Include="Models\PatunganInvitationViewModel.cs" />
@@ -412,7 +445,9 @@
     <Content Include="Areas\Admin\Views\MasterVoucher\Index.aspx" />
     <Content Include="Areas\Admin\Views\Notification\Compose.aspx" />
     <Content Include="Areas\Admin\Views\Notification\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Transaction\tab_deliveryprocess.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\tab_notvalidpaymentlist.ascx" />
+    <Content Include="Areas\Admin\Views\Transaction\tab_onprocess.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\tab_paymentlist.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\popup_detail_transaction.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\all.aspx" />
@@ -431,15 +466,30 @@
     <Content Include="Areas\Admin\Views\Transaction\product.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\tab_underpaymentlist.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\tab_validpaymentlist.ascx" />
+    <Content Include="Areas\Admin\Views\Transaction\tab_waitingprocess.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\transaction_group.ascx" />
     <Content Include="Areas\Admin\Views\Transaction\user.ascx" />
     <Content Include="Areas\Vendor\Views\Account\ConfirmEmail.aspx" />
+    <Content Include="Areas\Vendor\Views\Account\Index.aspx" />
+    <Content Include="Areas\Vendor\Views\Account\login_partial.ascx" />
     <Content Include="Areas\Vendor\Views\Home\Index.aspx" />
+    <Content Include="Areas\Vendor\Views\NoRekening\Edit.aspx" />
+    <Content Include="Areas\Vendor\Views\NoRekening\Index.aspx" />
+    <Content Include="Areas\Vendor\Views\Order\Index.aspx" />
+    <Content Include="Areas\Vendor\Views\Order\tab_rejected.ascx" />
+    <Content Include="Areas\Vendor\Views\Order\tab_confirmed.ascx" />
+    <Content Include="Areas\Vendor\Views\Order\tab_order.ascx" />
+    <Content Include="Areas\Vendor\Views\Order\tab_ready.ascx" />
+    <Content Include="Areas\Vendor\Views\Popup\popup_confirm_delivery.ascx" />
+    <Content Include="Areas\Vendor\Views\Popup\popup_order_details.ascx" />
+    <Content Include="Areas\Vendor\Views\Popup\popup_product_details.ascx" />
+    <Content Include="Areas\Vendor\Views\Popup\popup_reject_order.ascx" />
     <Content Include="Areas\Vendor\Views\Product\edit.aspx" />
     <Content Include="Areas\Vendor\Views\Product\editattribute.ascx" />
     <Content Include="Areas\Vendor\Views\Product\Index.aspx" />
     <Content Include="Areas\Vendor\Views\Product\New.aspx" />
     <Content Include="Areas\Vendor\Views\Product\newattribute.ascx" />
+    <Content Include="Areas\Vendor\Views\Withdrawal\Index.aspx" />
     <Content Include="Content\bootstrap\css\bootstrap-select.min.css" />
     <Content Include="Content\bootstrap\css\bootstrap-theme.css" />
     <Content Include="Content\bootstrap\css\bootstrap-theme.min.css" />
@@ -677,6 +727,7 @@
     <Content Include="Scripts\lib\js\jquery.dataTables.min.js" />
     <Content Include="Scripts\lib\js\jquery.matchHeight-min.js" />
     <Content Include="Scripts\lib\js\select2.full.min.js" />
+    <Content Include="Scripts\master.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
@@ -693,6 +744,7 @@
     <Content Include="Views\Catalog\views.aspx" />
     <Content Include="Views\Invitation\Error.aspx" />
     <Content Include="Views\Invitation\Giftcard.aspx" />
+    <Content Include="Views\Invitation\Patungan.aspx" />
     <Content Include="Views\Invitation\Success.aspx" />
     <Content Include="Views\Order\Index.aspx" />
     <Content Include="Views\Order\PreviewOrder.aspx" />
@@ -777,6 +829,24 @@
     <EmbeddedResource Include="Migrations\201603250216330_UpdateTableTransactionGiftCard.resx">
       <DependentUpon>201603250216330_UpdateTableTransactionGiftCard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604021908220_UpdateManyTable.resx">
+      <DependentUpon>201604021908220_UpdateManyTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604032127221_UpdateTableVendorPayment.resx">
+      <DependentUpon>201604032127221_UpdateTableVendorPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604032324598_UpdateTableVendorPayment1.resx">
+      <DependentUpon>201604032324598_UpdateTableVendorPayment1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604040651093_UpdateTableVendorPayment2.resx">
+      <DependentUpon>201604040651093_UpdateTableVendorPayment2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604040810371_UpdateTableVendorPayment3.resx">
+      <DependentUpon>201604040810371_UpdateTableVendorPayment3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604051614445_UpdateTableTransactionMemberGroup.resx">
+      <DependentUpon>201604051614445_UpdateTableTransactionMemberGroup.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
@@ -787,6 +857,7 @@
       <Name>pickkado.Entities</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -13,7 +13,7 @@ namespace pickkado.Front.Areas.Admin.Controllers
     [AuthorizeCustom(Roles = "Admin")]
     public class TransactionController : Controller
     {
-        const int MaxDisplay = 1;
+        const int MaxDisplay = 10;
         Db.PickkadoDBContext db = new Db.PickkadoDBContext();
         //
         // GET: /Admin/Transaction/
@@ -34,52 +34,453 @@ namespace pickkado.Front.Areas.Admin.Controllers
                 return View(model);
             }
         }
+        #region All
+
+        public ActionResult All(int page = 1, string status = "All", string sortby = "0")
+        {
+            var statusFilter = status == "All" ? "" : status;
+            var transaction = db.Transaction.ToList();
+            if (!string.IsNullOrEmpty(statusFilter))
+                transaction = transaction.Where(e => e.Status.ToLower().Contains(statusFilter.ToLower())).ToList();
+
+            switch (sortby)
+            {
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+            }
+            List<TransactionModel> list = new List<TransactionModel>();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
+            {
+                var item = transaction[i];
+                var a = new TransactionModel
+                {
+                    Id = item.Id,
+                    Date = item.TransDate,
+                    Deadline = item.TanggalKirim,
+                    Email = item.UserName,
+                    IsGroup = item.IsGroup,
+                    Total = item.GetTotalPrice(),
+                    TotalTransfered = item.TransactionPayments.Where(p => p.StatusPembayaran == TransactionPaymentStatus.Valid || p.StatusPembayaran == TransactionPaymentStatus.UnderPayment).Sum(x => x.TotalDiBayar),
+                    Status = item.Status
+                };
+                list.Add(a);
+            }
+            pagination.NextPageLink = Url.Action("all", new { page = pagination.NextPage(), status = status, sortby = sortby });
+            pagination.PrevPageLink = Url.Action("all", new { page = pagination.PrevPage(), status = status, sortby = sortby });
+            //if (string.IsNullOrEmpty(id))
+            //{
+            //    ViewBag.Tab = "list";
+            //}
+            //else
+            //{
+            //    var model = db.Transaction.Find(id);
+            //    ViewBag.Tab = "details";
+            //    ViewBag.Transaction = model;
+            //}
+            ViewBag.List = list;
+            ViewBag.Pagination = pagination;
+            var model = new AllTransactionFilterViewModel()
+            {
+                Status = status,
+                SortBy = sortby
+            };
+            return View(model);
+        }
+        
+        [HttpPost]
+        public ActionResult All(AllTransactionFilterViewModel model)
+        {
+            var statusFilter = model.Status == "All" ? "" : model.Status;
+            var transaction = db.Transaction.ToList();
+
+            if (!string.IsNullOrEmpty(statusFilter))
+                transaction = transaction.Where(e => e.Status.ToLower().Contains(statusFilter.ToLower())).ToList();
+            switch (model.SortBy)
+            {
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+            }
+            List<TransactionModel> list = new List<TransactionModel>();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, 1, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
+            {
+                var item = transaction[i];
+                var a = new TransactionModel
+                {
+                    Id = item.Id,
+                    Date = item.TransDate,
+                    Deadline = item.TanggalKirim,
+                    Email = item.UserName,
+                    IsGroup = item.IsGroup,
+                    Total = item.GetTotalPrice(),
+                    TotalTransfered = item.TransactionPayments.Where(p => p.StatusPembayaran == TransactionPaymentStatus.Valid || p.StatusPembayaran == TransactionPaymentStatus.UnderPayment).Sum(x => x.TotalDiBayar),
+                    Status = item.Status
+                };
+                list.Add(a);
+            }
+
+            pagination.NextPageLink = Url.Action("all", new { page = pagination.NextPage(), status = model.Status, sortby = model.SortBy });
+            pagination.PrevPageLink = Url.Action("all", new { page = pagination.PrevPage(), status = model.Status, sortby = model.SortBy });
+            //if (string.IsNullOrEmpty(id))
+            //{
+            //    ViewBag.Tab = "list";
+            //}
+            //else
+            //{
+            //    var model = db.Transaction.Find(id);
+            //    ViewBag.Tab = "details";
+            //    ViewBag.Transaction = model;
+            //}
+            ViewBag.List = list;
+            ViewBag.Pagination = pagination;
+            return View(model);
+        }
+        
+        #endregion
+
+        #region Payment Checking
 
         public ActionResult PaymentChecking()
         {
             return View();
         }
+        public ActionResult tab_paymentlist(int page = 1, string bank = "")
+        {
+            bank = bank == "All" ? "" : bank;
+            var transaction = db.TransactionPayment.ToList();
+            transaction = transaction.Where(e => e.StatusPembayaran == "" && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            var list = new List<TransactionPayment>();
+            for (int i = start; i < end; i++)
+            {
+                list.Add(transaction[i]);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#paymentlist .contentplaceholder','" + Url.Action("tab_paymentlist") + "','#paymentlist select'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#paymentlist .contentplaceholder','" + Url.Action("tab_paymentlist") + "','#paymentlist select'," + pagination.PrevPage() + ")";
+            ViewBag.PaymentCheckingList = list;
+            ViewBag.Pagination = pagination;
+            return View();
+
+        }
+        public ActionResult tab_underpaymentlist(int page = 1, string bank = "")
+        {
+            bank = bank == "All" ? "" : bank;
+            var transaction = db.TransactionPayment.ToList();
+            transaction = transaction.Where(e => e.StatusPembayaran == TransactionPaymentStatus.UnderPayment && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            var list = new List<TransactionPayment>();
+            for (int i = start; i < end; i++)
+            {
+                list.Add(transaction[i]);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#underpaymentlist .contentplaceholder','" + Url.Action("tab_underpaymentlist") + "','#underpaymentlist select'," + pagination.NextPage() + ");";
+            pagination.PrevPageLink = "javascript:goToPage('#underpaymentlist .contentplaceholder','" + Url.Action("tab_underpaymentlist") + "','#underpaymentlist select'," + pagination.PrevPage() + ");";
+            ViewBag.UnderPaymentList = list;
+            ViewBag.Pagination = pagination;
+            return View();
+
+        }
+        public ActionResult tab_validpaymentlist(int page = 1, string bank = "")
+        {
+            bank = bank == "All" ? "" : bank;
+            var transaction = db.TransactionPayment.ToList();
+            transaction = transaction.Where(e => e.StatusPembayaran == TransactionPaymentStatus.Valid && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            var list = new List<TransactionPayment>();
+            for (int i = start; i < end; i++)
+            {
+                list.Add(transaction[i]);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#validpaymentlist .contentplaceholder','" + Url.Action("tab_validpaymentlist") + "','#validpaymentlist select'," + pagination.NextPage() + ");";
+            pagination.PrevPageLink = "javascript:goToPage('#validpaymentlist .contentplaceholder','" + Url.Action("tab_validpaymentlist") + "','#validpaymentlist select'," + pagination.PrevPage() + ");";
+            ViewBag.ValidPaymentList = list;
+            ViewBag.Pagination = pagination;
+            return View();
+
+        }
+        public ActionResult tab_notvalidpaymentlist(int page = 1, string bank = "")
+        {
+            bank = bank == "All" ? "" : bank;
+            var transaction = db.TransactionPayment.ToList();
+            transaction = transaction.Where(e => e.StatusPembayaran == TransactionPaymentStatus.NotValid && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            var list = new List<TransactionPayment>();
+            for (int i = start; i < end; i++)
+            {
+                list.Add(transaction[i]);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#notvalidpaymentlist .contentplaceholder','" + Url.Action("tab_notvalidpaymentlist") + "','#notvalidpaymentlist select'," + pagination.NextPage() + ");";
+            pagination.PrevPageLink = "javascript:goToPage('#notvalidpaymentlist .contentplaceholder','" + Url.Action("tab_notvalidpaymentlist") + "','#notvalidpaymentlist select'," + pagination.PrevPage() + ");";
+            ViewBag.NotValidPaymentList = list;
+            ViewBag.Pagination = pagination;
+            return View();
+
+        }
+
+        #endregion
+
+        #region Outstanding
+
         public ActionResult Outstanding()
         {
-            var transaction = db.Transaction.Where(e => e.Status == TransactionStatus.InventoryChecking).OrderBy(e => e.UpdatedDate).ToList();
-            List<TransactionModel> list = new List<TransactionModel>();
-            foreach (var item in transaction)
-            {
-                var a = new TransactionModel
-                {
-                    Id = item.Id,
-                    Date = item.UpdatedDate,
-                    Email = item.UserName,
-                    Deadline = item.TanggalKirim,
-                    ProductName = item.ProductName,
-                    Total = item.GetTotalPrice(),
-                    TotalTransfered = item.TransactionPayments.Where(p => p.StatusPembayaran == TransactionPaymentStatus.Valid || p.StatusPembayaran == TransactionPaymentStatus.UnderPayment).Sum(x => x.TotalDiBayar)
-
-                };
-                list.Add(a);
-            }
-            ViewBag.List = list;
             return View();
         }
+
+        public ActionResult tab_waitingprocess(int page = 1, string sortby = "0", string email = "", string vendorname = "")
+        {
+            var transaction = db.Transaction.Where(e => e.Status == TransactionStatus.InventoryChecking).ToList();
+            
+            transaction = transaction.Where(e => e.UserName.ToLower().Contains(email.ToLower())).ToList();
+            switch (sortby)
+            {
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+            }
+            var payment = db.VendorPayment.Where(e => !e.IsPaid).ToList();
+            var transactionJoinPayment = (from t in transaction
+                                          join p in payment
+                                          on t.Id equals p.TransactionId
+                                          select new OutstandingViewModel
+                                          {
+                                              Id = t.Id,
+                                              VendorPaymentId=p.Id,
+                                              Date = t.UpdatedDate,
+                                              Email = t.UserName,
+                                              Deadline = t.TanggalKirim,
+                                              ProductName = t.ProductName,
+                                              Total = t.GetTotalPrice(),
+                                              VendorName = t.StoreName,
+                                              IsAccepted = p.IsAccepted,
+                                              IsDeliver = p.IsDeliver,
+                                              IsDelivered = p.IsDelivered
+                                          }).ToList();
+            List<OutstandingViewModel> list = new List<OutstandingViewModel>();
+            foreach (var item in transaction)
+            {
+                bool found = false;
+                foreach (var item2 in transactionJoinPayment)
+                {
+                    if (!item2.IsAccepted)
+                        item2.Status = "Rejected";
+                    else
+                    {
+                        if (item2.IsAccepted)
+                        {
+                            item2.Status = "Waiting to Deliver";
+                            if (item2.IsDeliver && item2.IsDelivered)
+                            {
+                                item2.Status = "Accepted by Pickkado";
+                            }
+                            else if (item2.IsDeliver && !item2.IsDelivered)
+                                item2.Status = "On Delivering";
+                        }
+
+                    }
+                    list.Add(item2);
+                    found = true;
+                    break;
+                }
+                if (!found)
+                {
+                    var a = new OutstandingViewModel
+                    {
+                        Id = item.Id,
+                        VendorPaymentId = "",
+                        Date = item.UpdatedDate,
+                        Email = item.UserName,
+                        Deadline = item.TanggalKirim,
+                        ProductName = item.ProductName,
+                        Total = item.GetTotalPrice(),
+                        VendorName = item.StoreName,
+                        IsAccepted = false,
+                        IsDeliver = false,
+                        IsDelivered = false,
+                        Status="Waiting for Vendor's Response"
+                    };
+                    list.Add(a);
+                }
+            }
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            List<OutstandingViewModel> list2 = new List<OutstandingViewModel>();
+            for (int i = start; i < end; i++)
+            {
+                var item = list[i];
+                list2.Add(item);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#waitinglist .card-body','" + Url.Action("tab_onprocess", new { sortby = sortby, email = email, vendorname = vendorname }) + "'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#waitinglist .card-body','" + Url.Action("tab_onprocess", new { sortby = sortby, email = email, vendorname = vendorname }) + "'," + pagination.PrevPage() + ")";
+
+            ViewBag.List = list2;
+            ViewBag.Pagination = pagination;
+            var model = new OnProcessTransactionFilterViewModel()
+            {
+                VendorName = vendorname,
+                SortBy = sortby,
+                Email = email
+            };
+            return View(model);
+        }
+        [HttpPost]
+        public ActionResult tab_waitingprocess(OnProcessTransactionFilterViewModel model)
+        {
+            var transaction = db.Transaction.Where(e => e.Status != TransactionStatus.InventoryChecking).ToList();
+            string emailFilter = string.IsNullOrEmpty(model.Email) ? "" : model.Email;
+            transaction = transaction.Where(e => e.UserName.ToLower().Contains(emailFilter.ToLower())).ToList();
+            switch (model.SortBy)
+            {
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+            } 
+            var payment = db.VendorPayment.Where(e => !e.IsPaid).ToList();
+            var transactionJoinPayment = (from t in transaction
+                                          join p in payment
+                                          on t.Id equals p.TransactionId
+                                          select new OutstandingViewModel
+                                          {
+                                              Id = t.Id,
+                                              VendorPaymentId = p.Id,
+                                              Date = t.UpdatedDate,
+                                              Email = t.UserName,
+                                              Deadline = t.TanggalKirim,
+                                              ProductName = t.ProductName,
+                                              Total = t.GetTotalPrice(),
+                                              VendorName = t.StoreName,
+                                              IsAccepted = p.IsAccepted,
+                                              IsDeliver = p.IsDeliver,
+                                              IsDelivered = p.IsDelivered
+                                          }).ToList();
+            List<OutstandingViewModel> list = new List<OutstandingViewModel>();
+            foreach (var item in transaction)
+            {
+                bool found = false;
+                foreach (var item2 in transactionJoinPayment)
+                {
+                    if (!item2.IsAccepted)
+                        item2.Status = "Rejected";
+                    else
+                    {
+                        if (item2.IsAccepted)
+                        {
+                            item2.Status = "Waiting to Deliver";
+                            if (item2.IsDeliver && item2.IsDelivered)
+                            {
+                                item2.Status = "Accepted by Pickkado";
+                            }
+                            else if (item2.IsDeliver && !item2.IsDelivered)
+                                item2.Status = "On Delivering";
+                        }
+
+                    }
+                    list.Add(item2);
+                    found = true;
+                    break;
+                }
+                if (!found)
+                {
+                    var a = new OutstandingViewModel
+                    {
+                        Id = item.Id,
+                        VendorPaymentId = "",
+                        Date = item.UpdatedDate,
+                        Email = item.UserName,
+                        Deadline = item.TanggalKirim,
+                        ProductName = item.ProductName,
+                        Total = item.GetTotalPrice(),
+                        VendorName = item.StoreName,
+                        IsAccepted = false,
+                        IsDeliver = false,
+                        IsDelivered = false,
+                        Status = "Waiting for Vendor's Response"
+                    };
+                    list.Add(a);
+                }
+            }
+            List<OutstandingViewModel> list2 = new List<OutstandingViewModel>();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, 1, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
+            {
+                var item = list[i];
+                list2.Add(item);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#waitinglist .card-body','" + Url.Action("tab_onprocess", new { sortby = model.SortBy, email = model.Email, vendorname = model.VendorName }) + "'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#waitinglist .card-body','" + Url.Action("tab_onprocess", new { sortby = model.SortBy, email = model.Email, vendorname = model.VendorName }) + "'," + pagination.PrevPage() + ")";
+
+            ViewBag.List = list;
+            ViewBag.Pagination = pagination;
+            return View(model);
+        }
+        #endregion
+
+        #region On Process
+
         public ActionResult Onprocess()
         {
             var transaction = db.Transaction.OrderBy(e => e.UpdatedDate).ToList();
-            List<TransactionModel> list = new List<TransactionModel>();
-            foreach (var item in transaction.Where(e => e.Status == TransactionStatus.OnBuying).ToList())
-            {
-                var a = new TransactionModel
-                {
-                    Id = item.Id,
-                    Email = item.UserName,
-                    Deadline = item.TanggalKirim,
-                    Total = item.GetTotalPrice(),
-                    Address = item.DestinationAddress + ", " + item.Kecamatan + ", " + item.Kelurahan + ", " + item.City
-
-                };
-                list.Add(a);
-            }
-            ViewBag.List = list;
-
             List<TransactionModel> list2 = new List<TransactionModel>();
             foreach (var item in transaction.Where(e => e.Status == TransactionStatus.OnDelivering).ToList())
             {
@@ -97,124 +498,217 @@ namespace pickkado.Front.Areas.Admin.Controllers
             ViewBag.DeliveringList = list2;
             return View();
         }
-        public ActionResult All(int page=1, string status="All")
+
+        public ActionResult tab_onprocess(int page = 1, string sortby = "0", string email = "", string vendorname = "")
         {
-            var transaction = db.Transaction.ToList();
+            var transaction = db.Transaction.Where(e => e.Status == TransactionStatus.OnBuying).ToList();
+            transaction = transaction.Where(e => e.UserName.ToLower().Contains(email.ToLower())).ToList();
+            switch (sortby)
+            {
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+            }
             List<TransactionModel> list = new List<TransactionModel>();
-            int pageCount = transaction.Count>0? transaction.Count / MaxDisplay + (transaction.Count % MaxDisplay > 0 ? MaxDisplay : 0):0;
-            int startIndex = page - 1;
-            int endIndex = transaction.Count >= startIndex + MaxDisplay ? startIndex + MaxDisplay : transaction.Count;
-            for (int i=startIndex;i<endIndex;i++)
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
             {
                 var item = transaction[i];
-                var a = new TransactionModel {
-                    Id=item.Id,
-                    Date=item.TransDate,
-                    Deadline=item.TanggalKirim,
-                    Email=item.UserName,
-                    IsGroup=item.IsGroup,
-                    Total=item.GetTotalPrice(),
-                    TotalTransfered = item.TransactionPayments.Where(p => p.StatusPembayaran == TransactionPaymentStatus.Valid || p.StatusPembayaran == TransactionPaymentStatus.UnderPayment).Sum(x => x.TotalDiBayar),
-                    Status=item.Status
+                var a = new TransactionModel
+                {
+                    Id = item.Id,
+                    Email = item.UserName,
+                    Deadline = item.TanggalKirim,
+                    Total = item.GetTotalPrice(),
+                    Address = item.DestinationAddress + ", " + item.Kecamatan + ", " + item.Kelurahan + ", " + item.City
+
                 };
                 list.Add(a);
             }
-            //if (string.IsNullOrEmpty(id))
-            //{
-            //    ViewBag.Tab = "list";
-            //}
-            //else
-            //{
-            //    var model = db.Transaction.Find(id);
-            //    ViewBag.Tab = "details";
-            //    ViewBag.Transaction = model;
-            //}
+            pagination.NextPageLink = "javascript:goToPage('#list .card-body','" + Url.Action("tab_onprocess", new { sortby = sortby, email = email, vendorname = vendorname }) + "'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#list .card-body','" + Url.Action("tab_onprocess", new { sortby = sortby, email = email, vendorname = vendorname }) + "'," + pagination.PrevPage() + ")";
+
             ViewBag.List = list;
-            ViewBag.PageCount = pageCount;
-            ViewBag.NextPage= page+1;
-            ViewBag.PrevPage = page - 1;
-            return View();
-        }
-        public ActionResult tab_paymentlist(int page=1, string bank="")
-        {
-            bank = bank == "All" ? "" : bank;
-            var transaction = db.TransactionPayment.ToList();
-            transaction = transaction.Where(e => e.StatusPembayaran == "" && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
-            int pageCount = transaction.Count > 0 ? transaction.Count / MaxDisplay + (transaction.Count % MaxDisplay > 0 ? 1 : 0) : 0;
-            int startIndex = page - 1;
-            int endIndex = transaction.Count >= startIndex + MaxDisplay ? startIndex + MaxDisplay : transaction.Count;
-            var list = new List<TransactionPayment>();
-            for (int i = startIndex; i < endIndex; i++)
+            ViewBag.Pagination = pagination;
+            var model = new OnProcessTransactionFilterViewModel()
             {
-                list.Add(transaction[i]);
-            }
-            ViewBag.PaymentCheckingList = list;
-            ViewBag.PageCount = pageCount;
-            ViewBag.NextPage = page + 1;
-            ViewBag.PrevPage = page - 1;
-            return View();
-
+                VendorName = vendorname,
+                SortBy = sortby,
+                Email = email
+            };
+            return View(model);
         }
-        public ActionResult tab_underpaymentlist(int page=1,string bank="")
+        [HttpPost]
+        public ActionResult tab_onprocess(OnProcessTransactionFilterViewModel model)
         {
-            bank = bank == "All" ? "" : bank;
-            var transaction = db.TransactionPayment.ToList();
-            transaction = transaction.Where(e => e.StatusPembayaran == TransactionPaymentStatus.UnderPayment && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
-            int pageCount = transaction.Count > 0 ? transaction.Count / MaxDisplay + (transaction.Count % MaxDisplay > 0 ? 1 : 0) : 0;
-            int startIndex = page - 1;
-            int endIndex = transaction.Count >= startIndex + MaxDisplay ? startIndex + MaxDisplay : transaction.Count;
-            var list = new List<TransactionPayment>();
-            for (int i = startIndex; i < endIndex; i++)
+            var transaction = db.Transaction.Where(e => e.Status == TransactionStatus.OnBuying).ToList();
+            string emailFilter = string.IsNullOrEmpty(model.Email) ? "" : model.Email;
+            transaction = transaction.Where(e => e.UserName.ToLower().Contains(emailFilter.ToLower())).ToList();
+            switch (model.SortBy)
             {
-                list.Add(transaction[i]);
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
             }
-            ViewBag.UnderPaymentList = list;
-            ViewBag.PageCount = pageCount;
-            ViewBag.NextPage = page + 1;
-            ViewBag.PrevPage = page - 1;
-            return View();
+            List<TransactionModel> list = new List<TransactionModel>();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, 1, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
+            {
+                var item = transaction[i];
+                var a = new TransactionModel
+                {
+                    Id = item.Id,
+                    Email = item.UserName,
+                    Deadline = item.TanggalKirim,
+                    Total = item.GetTotalPrice(),
+                    Address = item.DestinationAddress + ", " + item.Kecamatan + ", " + item.Kelurahan + ", " + item.City
 
+                };
+                list.Add(a);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#list .card-body','" + Url.Action("tab_onprocess", new { sortby = model.SortBy, email = model.Email, vendorname = model.VendorName }) + "'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#list .card-body','" + Url.Action("tab_onprocess", new { sortby = model.SortBy, email = model.Email, vendorname = model.VendorName }) + "'," + pagination.PrevPage() + ")";
+
+            ViewBag.List = list;
+            ViewBag.Pagination = pagination;
+            return View(model);
         }
-        public ActionResult tab_validpaymentlist(int page=1,string bank="")
+
+        public ActionResult tab_deliveryprocess(int page = 1, string sortby = "0", string email = "", string vendorname = "", string noresi="")
         {
-            bank = bank == "All" ? "" : bank;
-            var transaction = db.TransactionPayment.ToList();
-            transaction = transaction.Where(e => e.StatusPembayaran == TransactionPaymentStatus.Valid && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
-            int pageCount = transaction.Count > 0 ? transaction.Count / MaxDisplay + (transaction.Count % MaxDisplay > 0 ? 1 : 0) : 0;
-            int startIndex = page - 1;
-            int endIndex = transaction.Count >= startIndex + MaxDisplay ? startIndex + MaxDisplay : transaction.Count;
-            var list = new List<TransactionPayment>();
-            for (int i = startIndex; i < endIndex; i++)
+            var transaction = db.Transaction.Where(e => e.Status == TransactionStatus.OnDelivering).ToList();
+            transaction = transaction.Where(e =>
+                e.UserName.ToLower().Contains(email.ToLower())
+                && (string.IsNullOrEmpty(e.ResiNumber)? true : e.ResiNumber.ToLower().Contains(noresi.ToLower()))).ToList();
+            switch (sortby)
             {
-                list.Add(transaction[i]);
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
             }
-            ViewBag.ValidPaymentList = list;
-            ViewBag.PageCount = pageCount;
-            ViewBag.NextPage = page + 1;
-            ViewBag.PrevPage = page - 1;
-            return View();
+            List<TransactionModel> list = new List<TransactionModel>();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, page, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
+            {
+                var item = transaction[i];
+                var a = new TransactionModel
+                {
+                    Id = item.Id,
+                    Email = item.UserName,
+                    Deadline = item.TanggalKirim,
+                    Total = item.GetTotalPrice(),
+                    Address = item.DestinationAddress + ", " + item.Kecamatan + ", " + item.Kelurahan + ", " + item.City,
+                    ResiNumber = item.ResiNumber??""
+                };
+                list.Add(a);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#deliverprocesslist .card-body','" + Url.Action("tab_deliveryprocess", new {noresi=noresi, sortby = sortby, email = email, vendorname = vendorname }) + "'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#deliverprocesslist .card-body','" + Url.Action("tab_deliveryprocess", new {noresi=noresi, sortby = sortby, email = email, vendorname = vendorname }) + "'," + pagination.PrevPage() + ")";
 
+            ViewBag.DeliveringList = list;
+            ViewBag.Pagination = pagination;
+            var model = new DeliveryProcessTransactionFilterViewModel()
+            {
+                VendorName = vendorname,
+                NoResi=noresi,
+                SortBy = sortby,
+                Email = email
+            };
+            return View(model);
         }
-        public ActionResult tab_notvalidpaymentlist(int page=1 ,string bank="")
+        [HttpPost]
+        public ActionResult tab_deliveryprocess(DeliveryProcessTransactionFilterViewModel model)
         {
-            bank = bank == "All" ? "" : bank;
-            var transaction = db.TransactionPayment.ToList();
-            transaction = transaction.Where(e => e.StatusPembayaran == TransactionPaymentStatus.NotValid && e.NamaBankTujuan.ToLower().Contains(bank.ToLower())).ToList();
-            int pageCount = transaction.Count > 0 ? transaction.Count / MaxDisplay + (transaction.Count % MaxDisplay > 0 ? 1 : 0) : 0;
-            int startIndex = page - 1;
-            int endIndex = transaction.Count >= startIndex + MaxDisplay ? startIndex + MaxDisplay : transaction.Count;
-            var list = new List<TransactionPayment>();
-            for (int i = startIndex; i < endIndex; i++)
+            var transaction = db.Transaction.Where(e => e.Status == TransactionStatus.OnDelivering).ToList();
+            string emailFilter = string.IsNullOrEmpty(model.Email) ? "" : model.Email;
+            string noresiFilter = string.IsNullOrEmpty(model.NoResi) ? "" : model.NoResi;
+            transaction = transaction.Where(e =>
+                e.UserName.ToLower().Contains(emailFilter.ToLower())
+                && (string.IsNullOrEmpty(e.ResiNumber) ? true : e.ResiNumber.ToLower().Contains(noresiFilter.ToLower()))).ToList();
+            switch (model.SortBy)
             {
-                list.Add(transaction[i]);
+                case "0": transaction = transaction.OrderByDescending(e => e.TransDate).ToList();
+                    break;
+                case "1": transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
+                case "2": transaction = transaction.OrderBy(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "3": transaction = transaction.OrderByDescending(e => e.GetTotalPrice()).ToList();
+                    break;
+                case "4": transaction = transaction.OrderBy(e => e.TanggalKirim).ToList();
+                    break;
+                case "5": transaction = transaction.OrderByDescending(e => e.TanggalKirim).ToList();
+                    break;
+                default: transaction = transaction.OrderBy(e => e.TransDate).ToList();
+                    break;
             }
-            ViewBag.NotValidPaymentList = list;
-            ViewBag.PageCount = pageCount;
-            ViewBag.NextPage = page + 1;
-            ViewBag.PrevPage = page - 1;
-            return View();
+            List<TransactionModel> list = new List<TransactionModel>();
+            PaginationViewModel pagination = new PaginationViewModel(MaxDisplay, 1, transaction.Count);
+            int start = pagination.StartIndex() < 0 ? 0 : pagination.StartIndex();
+            int end = pagination.EndIndex();
+            for (int i = start; i < end; i++)
+            {
+                var item = transaction[i];
+                var a = new TransactionModel
+                {
+                    Id = item.Id,
+                    Email = item.UserName,
+                    Deadline = item.TanggalKirim,
+                    Total = item.GetTotalPrice(),
+                    Address = item.DestinationAddress + ", " + item.Kecamatan + ", " + item.Kelurahan + ", " + item.City,
+                    ResiNumber = item.ResiNumber??""
+                };
+                list.Add(a);
+            }
+            pagination.NextPageLink = "javascript:goToPage('#deliverprocesslist .card-body','" + Url.Action("tab_deliveryprocess", new { noresi = model.NoResi, sortby = model.SortBy, email = model.Email, vendorname = model.VendorName }) + "'," + pagination.NextPage() + ")";
+            pagination.PrevPageLink = "javascript:goToPage('#deliverprocesslist .card-body','" + Url.Action("tab_deliveryprocess", new { noresi = model.NoResi, sortby = model.SortBy, email = model.Email, vendorname = model.VendorName }) + "'," + pagination.PrevPage() + ")";
 
+            ViewBag.DeliveringList = list;
+            ViewBag.Pagination = pagination;
+            return View(model);
         }
+
+        #endregion
+
         public ActionResult popup_detail_transaction(string id = "")
         {
 

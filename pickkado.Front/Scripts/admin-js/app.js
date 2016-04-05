@@ -34,6 +34,14 @@ $(function () {
                     return;
                 }
             }
+            else if (id == "vendor")
+            {
+                var count = document.location.href.length;
+                if (count == document.location.href.indexOf(id) + 6) {
+                    $(this).addClass('active');
+                    return;
+                }
+            }
             else {
                 $(this).addClass('active');
                 return;
@@ -55,4 +63,11 @@ $(function() {
   return $(".side-menu .nav .dropdown").on('show.bs.collapse', function() {
     return $(".side-menu .nav .dropdown .collapse").collapse('hide');
   });
+});
+$(document).ajaxStart(function () {
+    // show loader on start
+    $(".loader").css("display", "block");
+}).ajaxSuccess(function () {
+    // hide loader on success
+    $(".loader").css("display", "none");
 });

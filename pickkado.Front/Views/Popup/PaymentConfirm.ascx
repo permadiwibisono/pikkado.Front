@@ -1,9 +1,9 @@
 ﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<pickkado.Front.Models.PaymentConfirmViewModel>" %>
 
 
-<div style="position: fixed; background-color: rgba(10,10,10,0.6); top: 0; bottom: 0; width: 100%; height: 100%; left: 0; right: 0; z-index: 1100;">
-    <div style="position: relative; width: 550px; height: 560px; background-color: white; margin: auto; transform: translateY(-50%); top: 50%;">
-        <img src="../../Images/icon/close.png" style="position: absolute; top: -14px; right: -14px; cursor: pointer" id="btn-close" />
+<div  class="modal-dialog" style="width:550px;min-height:560px;">
+    <div class="modal-content" style="border-radius:0;">
+        <img src="../../Images/icon/close.png" class="bounce animated" style="position: absolute; top: -14px; right: -14px; cursor: pointer" id="btn-close" data-dismiss="modal" />
 
         <% using (Html.BeginForm("PaymentConfirm", "Popup", new { returnUrl = Request.UrlReferrer.AbsoluteUri }, FormMethod.Post, new {id="paymentConfirmForm", @enctype = "multipart/form-data" }))
            { %>
@@ -172,8 +172,10 @@
             $('.divRekeningBaruCollapse').collapse('hide');
         }
 
-
-        $("#txtTanggalTransfer").datepicker("setValue", new Date());
+        $("#txtTanggalTransfer").datepicker({ format: 'dd/mm/yyyy'}).datepicker("setValue", new Date())
+            .on('changeDate', function () {
+                $(this).datepicker('hide');
+            });
     });
 
     function ddlDariRekening_onChange(ddlId) {
@@ -197,11 +199,6 @@
 
 
 <script>
-    $("#txtTanggalTransfer").datepicker({
-        format: 'dd/mm/yyyy'
-    }).on('changeDate', function () {
-        $("#txtTanggalTransfer").datepicker('hide');
-    });
     $('.datepicker').css("z-index", 1100);
 </script>
 
@@ -271,11 +268,11 @@
         }
     }
 
-    $('#btn-close').click(function () {
-        $("#popup").html('');
-    });
-    $(".validation-summary-errors").removeClass("validation-summary-errors");
-    $(".input-validation-error").removeClass("input-validation-error").parent().addClass("has-error");
+    //$('#btn-close').click(function () {
+    //    $("#popup").html('');
+    //});
+    //$(".validation-summary-errors").removeClass("validation-summary-errors");
+    //$(".input-validation-error").removeClass("input-validation-error").parent().addClass("has-error");
 
     //http://stackoverflow.com/questions/12368910/html-display-image-after-selecting-filename
     function readURL(input, imgId) {

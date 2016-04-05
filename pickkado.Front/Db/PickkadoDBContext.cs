@@ -62,6 +62,8 @@ namespace pickkado.Front.Db
         public DbSet<EmailSubscribe> EmailSubscribe { get; set; }
         public DbSet<PostalCode> PostalCode { get; set; }
         public DbSet<VendorPayment> VendorPayment { get; set; }
+        public DbSet<VendorWithdraw> VendorWithdraw { get; set; }
+        public DbSet<VendorWithdrawDetail> VendorWithdrawDetail { get; set; }
 
         static PickkadoDBContext()
         {

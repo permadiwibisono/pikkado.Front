@@ -4,7 +4,7 @@
    <li class="active">Dashboard</li>
 </asp:Content>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">    
-        <div class="row">
+        <div class="row ">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <a href="#" class="">
                     <div class="card blue summary-inline fadeIn animated">

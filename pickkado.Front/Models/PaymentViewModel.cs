@@ -99,6 +99,10 @@ namespace pickkado.Front.Models
     }
     public class PurchaseInformationViewModel
     {
+        public PurchaseInformationViewModel()
+        {
+            PatunganFriends = new List<InviteNameEmailViewModel>();
+        }
         [Required]
         public string ReceiverName { get; set; }
         [Required]
@@ -112,11 +116,7 @@ namespace pickkado.Front.Models
         [Required]
         public string PhoneNumber { get; set; }
         [Required]
-        public int DateReceive { get; set; }
-        [Required]
-        public int MonthReceive { get; set; }
-        [Required]
-        public int YearReceive { get; set; }
+        public DateTime SendDate { get; set; }
         public string ProductPrice { get; set; }
         public string PackagePrice { get; set; }
         public string GiftcardPrice { get; set; }

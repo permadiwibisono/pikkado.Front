@@ -13,7 +13,7 @@
     <li class="active">Purchase Information</li>
 </asp:Content>
 
-<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">    
     <div class="container-fluid">
         <div class="container-fluid title-underline">
             <span class="font-avant">
@@ -69,9 +69,10 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="form-group form-group-md" id="formTimeReceived">
-                        <label class="col-lg-3 control-label" for="formTimeReceived">SEND DATE</label> 
-                        
-                        <div class="col-lg-3"> 
+                        <%--<label class="col-lg-3 control-label" for="formTimeReceived">SEND DATE</label> --%>
+                        <%--<input id="sendDate" class="form-control" type="text" placeholder="SEND DATE"/>--%>
+                        <%:Html.TextBoxFor(m=>m.SendDate,new{id="sendDate",placeholder="SEND DATE*",@class="form-control"}) %>
+                        <%--<div class="col-lg-3"> 
                             <%
                                 var DateList = new List<SelectListItem>();
                                 for (int i = 0; i < 32; i++)
@@ -110,7 +111,7 @@
                         </div>
                         <div class="col-lg-3">
                             <%:Html.DropDownListFor(m=>m.YearReceive,YearList,new{@class="selectpicker form-control"}) %>  
-                        </div>
+                        </div>--%>
                     </div>
                 </div>
             </div>
@@ -412,23 +413,35 @@
     <%Html.RenderAction("login_partial","account"); %>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="ScriptsSection" runat="server">
+    <link rel="stylesheet" href="../../Content/bootstrap/css/datepicker.css" />
+    <link rel="stylesheet" href="../../Content/bootstrap/css/bootstrap.css" />
+
+    <%--<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker3.min.css" />--%>
+
+    <script src="../../Scripts/bootstrap/bootstrap-datepicker.js"></script>
     <script src="../../Scripts/convert-rupiah.js"></script>
-    <script>
-        $(function () {
-            return $('.selectpicker').selectpicker({
-                style: 'btn-default',
-                size: 8,
-                liveSearch: "true"
-            });
+    <script>       
+        var nowTemp = new Date();
+        var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate() + 5, 0, 0, 0, 0);
+        $('#sendDate').datepicker({
+            format: 'dd/mm/yyyy',
+            onRender: function (date) {
+                return date.valueOf() < now.valueOf() ? 'disabled' : '';
+            }
+        }).datepicker('setValue', new Date()).on('changeDate', function () {
+            $(this).datepicker('hide');
         });
-       
+
         $(document).ready(function () {
             if ($('#IsPatungan').prop("checked") == true) {
                 $('#divPatungan').addClass("in");
             }
-            //$.get("/payment/GetCity").done(function (data) {
+            
+            ////$.get("/payment/GetCity").done(function (data) {
             //    console.log(data);
             //});
+
             //$.getJSON("//localhost:8080/api/ongkir/city.php", function (data) {
             //    alert(data);
             //});
@@ -578,5 +591,6 @@
             var tableLength = document.getElementById('tableInvite').rows.length;
             totalHargaPerorang.innerHTML = convertToRupiah(Math.ceil(total / tableLength));
         }
+
     </script>
 </asp:Content>

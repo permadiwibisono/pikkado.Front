@@ -17,6 +17,8 @@ namespace pickkado.Entities
         public string Email { get; set; }
         public string Name { get; set; }
         public float Price { get; set; }
+        public Guid ShareCode { get; set; }
+        public DateTime BatasWaktu { get; set; }
         public bool IsAccept { get; set; }
         public bool IsResponse { get; set; }
     }

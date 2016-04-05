@@ -1,8 +1,8 @@
 ﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<pickkado.Front.Models.LoginViewModel>" %>
 
-<div style="position:fixed;background-color:rgba(10,10,10,0.6); top:0; bottom:0;left:0; width:100%; height:100%; right:0;z-index:1100;">
-    <div style="position:relative; width:490px;height:540px;background-color:white; margin: auto; top:50%; transform:translateY(-50%)">
-        <img src="../../Images/icon/close.png" style=" position:absolute; top:-14px; right:-14px; cursor:pointer" id="btn-close"  />
+<div class="modal-dialog" style="width:490px;height:540px;">
+    <div class="modal-content" style="border-radius:0;">
+        <img src="../../Images/icon/close.png" class="bounce animated" style=" position:absolute; top:-14px; right:-14px; cursor:pointer" id="btn-close" data-dismiss="modal"  />
            
         <div class="container-fluid" style = "padding:50px 20px" > 
     <% using (Html.BeginForm("login", "account", null, FormMethod.Post, new {id="loginForm"}))
@@ -71,9 +71,9 @@
 </div>
 <script>
 
-    $('#btn-close').click(function () {
-        $("#popup").html('');
-    });
+    //$('#btn-close').click(function () {
+    //    $("#popup").html('');
+    //});
     $('#txtPassword').on('keyup', function (event) {
         if (event.keyCode == 13) {
             $('#btnLogin').button('loading');

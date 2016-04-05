@@ -1,4 +1,6 @@
 ﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<dynamic>" %>
+<%@ Import namespace="pickkado.Front" %>
+
 
 <div style="padding: 50px; margin-left: 120px">
     <%var userLogin = (pickkado.Entities.User)TempData["UserLogin"]; %>
@@ -160,7 +162,7 @@
                                             </div>
                                             <div class="col-md-6">
                                                 <div style="border: 1px solid #CECCCC; padding: 15px 10px">
-                                                    TOTAL PEMBAYARAN : Rp <%:m.TotalPembayaran %>
+                                                    TOTAL PEMBAYARAN : <%:m.TotalPembayaran.ToRupiah() %>
                                                 </div>
                                             </div>
                                         </div>
@@ -192,7 +194,7 @@
                                                             <%:m.Status[i].Status %>
                                                         </td>
                                                         <td class="friendprice" style="float:right">
-                                                            Rp <%:m.Status[i].Price %>
+                                                            <%:m.Status[i].Price.ToRupiah() %>
                                                         </td>
                                                     </tr>
                                                     <%} %>
@@ -265,6 +267,8 @@
 
 </div>
 
+
+<script src="../../Scripts/convert-rupiah.js"></script>
 <script type="text/javascript">
     $('.btn-accept').on('click', function () {
         //$(this).button('loading');
@@ -335,7 +339,7 @@
                         var tableRowStatus = tableRow.eq(i).find('td').eq(1);
                         var tableRowPrice = tableRow.eq(i).find('td').eq(2);
                         if (tableRowStatus.text().trim() == "Joined" || tableRowStatus.text().trim() == "Waiting")
-                        tableRowPrice.html("Rp " + result.TotalPricePerPerson);
+                        tableRowPrice.html(convertToRupiah(result.TotalPricePerPerson));
                     }
                     console.log(colStatus);
                     console.log(table);
@@ -343,7 +347,7 @@
                             '<div class="alert alert-success" role="alert">' + result.Message + '</div>' +
                         '</td></tr>');
                     colStatus.html(result.Status);
-                    colPrice.html("Rp 0");
+                    colPrice.html(convertToRupiah(0));
                     btn.parents('.row').remove();
                     //btn.button('reset');
                 }

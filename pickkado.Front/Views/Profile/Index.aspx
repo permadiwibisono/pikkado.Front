@@ -12,7 +12,11 @@
     <%var userLogin = (pickkado.Entities.User)TempData["UserLogin"]; %>
     <div class="container-fluid" style="background-color:#F2F2F2; margin:-20px -105px; padding:20px 120px" >
         <div style="float:left; border:5px solid white;" class="circular-portrait">
-            <img src="../../images/damian7.jpg" />
+            <%if(userLogin.Image == null) { %>
+            <img src="../../images/no-thumb.png" />
+            <%} else { %>
+            <img src="data:image/png;base64,<%:Convert.ToBase64String(userLogin.Image) %>" />
+            <%} %>
         </div>
         <div style="margin-left: 160px">
             <h4 class="font-avant"><%:userLogin.FirstName + ' ' + userLogin.LastName %></h4>
@@ -92,22 +96,25 @@
             }
         }
         function confirm_onClick(transId) {
-            $.get("popup/paymentconfirm?transId=" + transId,
-            function (data) {
-                $("#popup").html(data);
-            });
+            ShowPopup("popup/paymentconfirm?transId=" + transId);
+            //$.get("popup/paymentconfirm?transId=" + transId,
+            //function (data) {
+            //    $("#popup").html(data);
+            //});
         }
         function detailPatungan_onClick(transId) {
-            $.get("popup/detailpatungan?transId=" + transId,
-            function (data) {
-                $("#popup").html(data);
-            });
+            ShowPopup("popup/detailpatungan?transId=" + transId);
+            //$.get("popup/detailpatungan?transId=" + transId,
+            //function (data) {
+            //    $("#popup").html(data);
+            //});
         }
         function detailGiftcard_onClick(transId) {
-            $.get("popup/detailgiftcard?transId=" + transId,
-            function (data) {
-                $("#popup").html(data);
-            });
+            ShowPopup("popup/detailgiftcard?transId=" + transId);
+            //$.get("popup/detailgiftcard?transId=" + transId,
+            //function (data) {
+            //    $("#popup").html(data);
+            //});
         }
     </script>
 

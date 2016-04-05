@@ -24,7 +24,8 @@ namespace pickkado.Entities
         public float VirtualMoney { get; set; }
         public byte[] Image { get; set; }
         public string UserType { get; set; }//??
-
+        public string StoreId { get; set; }
+        public virtual Store Store { get; set; }
         public ICollection<Destination> Destinations { get; set; }
         public ICollection<NoRekening> NoRekenings { get; set; }
         public ICollection<Notification> Notifications { get; set; }

@@ -3,6 +3,87 @@
 <div id="mainDiv" style="padding: 50px; margin-left: 120px">
     <div id="message"></div>
     <div class="container-fluid title-underline">
+        <span class="font-avant" style="font-size: 15px">User Details
+        </span>
+    </div>
+    <%using(Html.BeginForm("changeuserdetail", "profile", null, FormMethod.Post, new { id="formUserDetail" })) %>
+    <%{ %>
+    <%: Html.AntiForgeryToken() %>
+    <%--<%var mdl = (pickkado.Front.Models.AccountBindingModel.ChangePasswordBindingModel)TempData["ChangePasswordModel"];%>--%>
+    <%var user = (pickkado.Entities.User)TempData["UserLogin"];%>
+            <div class="container-fluid" style="margin-bottom:20px">
+                <%:Html.HiddenFor(a => user.Id) %>
+                <%--<div class="row">
+                    <div class="col-lg-12">
+                        <input id="pp" type="file" name="image" accept="image/x-png, image/gif, image/jpeg"/>
+                    </div>
+                </div>--%>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="input-group input-group-lg" style="padding:10px 0px">
+                            <%:Html.TextBoxFor(m => user.Email, new { @class = "form-control disabled", @placeholder = "EMAIL", @disabled="disabled" })%>
+                            <%:Html.HiddenFor(m => user.Email)%>
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="input-group input-group-lg" style="padding:10px 0px">
+                            <%:Html.TextBoxFor(m => user.BirthPlace, new { @class = "form-control", @placeholder = "BIRTH PLACE" })%>
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="input-group input-group-lg" style="padding:10px 0px">
+                            <%:Html.TextBoxFor(m => user.BirthDate, new { @class = "form-control", @placeholder = "BIRTH DATE", id="textBoxBirthDate" })%>
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-th" aria-hidden="true"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="input-group input-group-lg" style="padding:10px 0px">
+                            <%var genderList = new List<SelectListItem>();
+                              genderList.Add(new SelectListItem { Text = "Laki-laki", Value = "0" });
+                              genderList.Add(new SelectListItem { Text = "Perempuan", Value = "1" });
+                              %>
+                            <%--<%:Html.TextBoxFor(m => user.Gender, new { @class = "form-control", @placeholder = "GENDER" })%>--%>
+                            <%:Html.DropDownListFor(m => user.Gender, genderList, new { @class = "form-control", @placeholder = "GENDER" })%>
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="input-group input-group-lg" style="padding:10px 0px">
+                            <%:Html.TextBoxFor(m => user.PhoneNumber, new { @class = "form-control", @placeholder = "PHONE NUMBER" })%>
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-phone" aria-hidden="true"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div style="padding:10px 0px">
+                            <button type="button" class="btn btn-save-changeuserdetail btn-lg btn-block btn-login" >Save</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <%} %>
+    
+
+    <div class="container-fluid title-underline">
         <span class="font-avant" style="font-size: 15px">Change Password
         </span>
     </div>
@@ -48,7 +129,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div style="padding:10px 0px">
-                            <button type="button" class="btn btn-save btn-lg btn-block btn-login" >Save</button>
+                            <button type="button" class="btn btn-save-changepassword btn-lg btn-block btn-login" >Save</button>
                         </div>
                     </div>
                 </div>
@@ -57,56 +138,34 @@
     
 </div>
 
+<%--<script src="../../Scripts/jquery.form.js"></script>--%>
+<link rel="stylesheet" href="../../Content/bootstrap/css/datepicker.css" />
+<script src="../../Scripts/bootstrap/bootstrap-datepicker.js"></script>
 <script type="text/javascript">
-    $('.btn-save').on('click', function () {
-        //e.preventDefault();
-        //var myModel = $(this).attr('data-bind');
-        //var btn = $(this);
-        //alert(myModel);
+    $(document).ready(function () {
+        $('#textBoxBirthDate').datepicker({ format: 'dd/mm/yyyy' }).on('changeDate', function () {
+            $(this).datepicker('hide');
+        });;
+    });
+    $('.btn-save-changepassword').on('click', function () {
         $.ajax({
             type: "POST",
             url: '<%:Url.Action("changepassword", "profile")%>',
             dataType: "json",
-            //data: $.param({ "model": mdl }),
-            //data: $.param({ "modelKu": myModel }),
             data: $('#formChangePassword').serialize(),
             success: function (result) {
                 if (result.IsError) {
-                    //alert(result.IsError + ' ' + result.Message);
-                    alert("error" + ' ' + result.Message);
-                    //$('#message').attr("style", "visibility:visible");
                     $('.message-result').remove();
                     $('#message').append("<div class=\"alert alert-danger form-message message-result\" style=\"margin-bottom:15px\">" +
                     "<a href=\"#\" class=\"close\" data-dismiss=\"alert\">×</a>" +
                     result.Message + 
                     "</div>");
-                    //callback;
-                    //btn.button('reset');
-                    //console.log("error");
                 } else {
-                    //console.log("not error");
-                    //alert(result.Message);
-                    //alert(result.IsError + ' ' + result.Message);
-                    alert("success");
                     $('.message-result').remove();
                     $('#message').append("<div class=\"alert alert-success form-message message-result\" style=\"margin-bottom:15px\">" +
                     "<a href=\"#\" class=\"close\" data-dismiss=\"alert\">×</a>" +
                     result.Message +
                     "</div>");
-                    //window.location.href = "profile?menu=setting";
-                    //callback;
-                    //$(".categories_content_container").html(result);
-                    //console.log(result);
-                    //var parent = btn.parents('.row').parent();
-                    //var table = parent.find('.friendlist tbody');
-                    //var colStatus = table.find('.me').parents('tr').find('td').eq(1);
-                    //console.log(colStatus);
-                    //console.log(table);
-                    //table.append('<tr><td colspan=3>' +
-                    //        '<div class="alert alert-success" role="alert">' + result.Message + '</div>' +
-                    //    '</td></tr>');
-                    //btn.parents('.row').remove();
-                    //btn.button('reset');
                 }
             },
             error: function () {
@@ -115,4 +174,34 @@
         });
 
     });
+    $('.btn-save-changeuserdetail').on('click', function () {
+        $.ajax({
+        type: "POST",
+        url: '<%:Url.Action("changeuserdetail", "profile")%>',
+            dataType: "json",
+            data: $('#formUserDetail').serialize(),
+            success: function (result) {
+                if (result.IsError) {
+                    $('.message-result').remove();
+                    $('#message').append("<div class=\"alert alert-danger form-message message-result\" style=\"margin-bottom:15px\">" +
+                    "<a href=\"#\" class=\"close\" data-dismiss=\"alert\">×</a>" +
+                    result.Message +
+                    "</div>");
+                } else {
+                    $('.message-result').remove();
+                    $('#message').append("<div class=\"alert alert-success form-message message-result\" style=\"margin-bottom:15px\">" +
+                    "<a href=\"#\" class=\"close\" data-dismiss=\"alert\">×</a>" +
+                    result.Message +
+                    "</div>");
+                }
+            },
+            error: function () {
+                alert('error');
+            }
+        });
+
+    });
+    
+
+    
 </script>

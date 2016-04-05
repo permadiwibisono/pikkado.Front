@@ -24,6 +24,7 @@ namespace pickkado.Front.Models
         public string PatunganDescription { get; set; }
         public DateTime BatasWaktuPelunasan { get; set; }
         public double TotalPembayaran { get; set; }
+        public string ToUserName { get; set; }
         public List<PatunganInvitationStatusViewModel> Status { get; set; }
     }
 

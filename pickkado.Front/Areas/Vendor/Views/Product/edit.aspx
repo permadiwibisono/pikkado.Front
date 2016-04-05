@@ -208,6 +208,9 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="navBar" runat="server">
+    <%Html.RenderAction("login_partial","account"); %>
+</asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="breadcumber" runat="server">
    <li>Dashboard</li>

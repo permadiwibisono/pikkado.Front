@@ -157,7 +157,7 @@ namespace pickkado.Front.Models
     // This is useful if you do not want to tear down the database each time you run the application.
     // public class ApplicationDbInitializer : DropCreateDatabaseAlways<ApplicationDbContext>
     // This example shows you how to create a new database if the Model changes
-    public class ApplicationDbInitializer : DropCreateDatabaseIfModelChanges<PickkadoDBContext>
+    public class ApplicationDbInitializer : CreateDatabaseIfNotExists<PickkadoDBContext>
     {
         protected override void Seed(PickkadoDBContext context)
         {
@@ -193,7 +193,8 @@ namespace pickkado.Front.Models
             {
                 var userDb = new Entities.User { 
                     CreatedBy="ADMIN",
-                    UpdatedBy="ADMIN"
+                    UpdatedBy="ADMIN",
+                    Email=name
                 };
                 userDb.Id = userDb.GenerateId("ADM");
                 db.User.Add(userDb);

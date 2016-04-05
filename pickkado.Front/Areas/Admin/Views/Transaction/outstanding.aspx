@@ -13,6 +13,16 @@
         <div class="col-xs-12">
             <div class="card">
                 <div class="card-body no-padding">
+                    <div class="modal fade" tabindex="-1" id="transactionDetailModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                                                    
+                        </div>
+                    </div>
+                    <div class="modal fade" tabindex="-1" id="MediumModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-md">
+                                                    
+                        </div>
+                    </div>
                     <div role="tabpanel">
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs" role="tablist">
@@ -29,49 +39,7 @@
                                         </div>
                                     </div>
                                     <div class="card-body">
-                                        <div class="modal fade" tabindex="-1" id="transactionDetailModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                                            <div class="modal-dialog modal-lg">
-                                                    
-                                            </div>
-                                        </div>
-                                        <div class="modal fade" tabindex="-1" id="MediumModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                                            <div class="modal-dialog modal-md">
-                                                    
-                                            </div>
-                                        </div>
-                                        <table class="datatable table table-striped fadeInUp animated" cellspacing="0" width="100%">
-                                            <thead>
-                                                <tr>
-                                                    <th>Update Date</th>
-                                                    <th>Email</th>
-                                                    <th>Deadline</th>
-                                                    <th>Product Name</th>
-                                                    <th>Total Transfered</th>
-                                                    <th>Total</th>
-                                                    <th></th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                    <%foreach (var item in ViewBag.List)
-                                                      {%>
-                                                      <tr class="animated">
-                                                          <td><%:item.Date %></td>
-                                                          <td><%:item.Email %></td>
-                                                          <td><%:item.Deadline.ToShortDateString() %></td>
-                                                        <td><%:item.ProductName %></td>
-                                                          <td>Rp. <%:item.TotalTransfered %></td>
-                                                          <td>Rp. <%:item.Total %></td>
-                                                        <td>
-                                                            <div class="btn-group">
-                                                                <button class="btn btn-success btn-confirm" name="<%:item.Id %>">Confirm</button>
-                                                                <button class="btn btn-primary btn-details" name="<%:item.Id %>">Details</button>
-                                                            </div>
-                                                            
-                                                        </td>
-                                                      </tr>
-                                                      <%} %>                      
-                                            </tbody>
-                                        </table>
+                                        <%Html.RenderAction("tab_waitingprocess"); %>
                                     </div>
                                 </div>
                             </div>

@@ -1,5 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Areas/Vendor/Views/Shared/Vendor.Master" Inherits="System.Web.Mvc.ViewPage<pickkado.Front.Areas.Vendor.Models.NewProductViewModel>" %>
 
+<asp:Content ID="Content5" ContentPlaceHolderID="navBar" runat="server">
+    <%Html.RenderAction("login_partial","account"); %>
+</asp:Content>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <% using (Html.BeginForm("new", "product", FormMethod.Post, new {@class="form-horizontal" }))
        { %>

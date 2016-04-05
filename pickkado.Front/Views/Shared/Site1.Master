@@ -19,6 +19,8 @@
     <link href="../../Content/bootstrap/css/bootstrap-select.min.css" rel="stylesheet" />
     <link href="../../Content/lib/css/responsive-column.css" rel="stylesheet" />
     <link href="../../Content/bs-override.css" rel="stylesheet" />
+    <link href="../../Content/lib/css/font-awesome.min.css" rel="stylesheet" />
+    
     <%--<%: Scripts.Render("~/bundles/modernizr") %>--%>
     <%: Scripts.Render("~/bundles/bootstrap") %>
     <%--<%: Styles.Render("~/Content/bootstrap") %>--%>
@@ -68,6 +70,14 @@
         </div>
     </nav>
     <div style="margin-top:160px; min-height:317px">
+        <div class="loader" style=" display:none ">
+            <div class="loader-content">
+                <div >
+                    <i class="fa fa-spinner fa-pulse fa-3x"></i>
+                </div>
+                <div >Loading</div>
+            </div>
+        </div>
         <div class="container">
         <asp:ContentPlaceHolder ID="MainContent" runat="server">
         
@@ -78,27 +88,8 @@
     <asp:ContentPlaceHolder ID="ScriptsSection" runat="server" />
     <script src="../../Scripts/validation-summary.js"></script>
     <script src="../../Scripts/bootstrap/bootstrap-select.min.js"></script>
-    <script>
-        $('.btn-login').hover(function () {
-            try {
-
-                var img = $(this).find('img').attr('src');
-                $(this).find('img').attr('src', img.replace('.png', '2.png'));
-            }
-            catch (e)
-            {
-            }
-        }, function () {
-            try {
-                var img = $(this).find('img').attr('src');
-                $(this).find('img').attr('src', img.replace('2.png', '.png'));
-
-            }
-            catch (e)
-            { }
-                
-        });
-    </script>
+    <script src="../../Scripts/jquery.zoom.min.js"></script>
+    <script src="../../Scripts/master.js"></script>
     <footer class="footer">
         <div class="container">
             <div class="footer-item row" >
@@ -158,28 +149,7 @@
             </div>
         </div>
     </footer>
-    <script type="text/javascript">
-        $('#login').click(function () {
-            $.get("../account/login",
-            function (data) {
-                $("#popup").html(data);
-            });
-
-        });
-        $('#btnAuthorize').click(function (e) {
-            e.preventDefault();
-            $.get("../account/login",
-            function (data) {
-                $("#popup").html(data);
-            });
-
-        });
-        $('a[data-animated="tada"]').hover(function () {
-            //$(this).toggleClass($(this).attr("data-animated"));
-            $(this).toggleClass($(this).attr("data-animated"));
-        });
-    </script>
-    <div id="popup">
+    <div id="popup" class="modal fade" role="dialog">
 
     </div>
 </body>

@@ -90,6 +90,12 @@
               transition:height ease 0.5s;
 
             }
+            .gift-container .gift a:hover .img-landscape {
+              height: auto;
+              width: 110%;
+              transition:width ease 0.5s;
+
+            }
             .gift-container .gift .title {
                 padding-top:5px;
                 padding-bottom: 5px;
@@ -110,13 +116,16 @@
       -webkit-transform: translate(-50%,-50%);
           -ms-transform: translate(-50%,-50%);
               transform: translate(-50%,-50%);
+              transition:width ease 0.5s;
 }
     .square .img-portait {
       position: absolute;
       left: 50%;
       top: 50%;
-      height: 100%;
-      width: auto;
+      /*height: 100%;
+      width: auto;*/
+      width: 100%;
+      height: auto;
       -webkit-transform: translate(-50%,-50%);
           -ms-transform: translate(-50%,-50%);
               transform: translate(-50%,-50%);
@@ -164,7 +173,7 @@
                   }
                    %>
                 <ul class = "pagination pagination-sm" style="float:right;padding:0px;margin:0px">
-                    <%if (pageCount > 0)
+                    <%if (pageCount > 1)
                       { %>
                         <%if (activePage > 1)
                           { %>
@@ -191,10 +200,10 @@
                                 <%if (list[i].Image != null) %>
                                 <%{
                                       %>                                    
-                                    <img class="img-responsive" src="data:image;base64,<%: System.Convert.ToBase64String(list[i].Image)%>"  />
+                                    <img class="img-landscape" src="data:image;base64,<%: System.Convert.ToBase64String(list[i].Image)%>"  />
                                   <%}
                                   else{%>
-                                    <img class="img-responsive" src="../../Images/no-thumb.png" />
+                                    <img class="" src="../../Images/no-thumb.png" />
                                     
                                   <%} %>                                
                             </div>
@@ -223,10 +232,16 @@
 <asp:Content ID="Content4" ContentPlaceHolderID="ScriptsSection" runat="server">
     <script>
         $(function () {
-            $('[data-toggle="tooltip"]').tooltip();
-            if ($('.square').find('img').width() > $('.square').find('img').height())
-                return $('.square').find('img').addClass('img-landscape');
-            return $('.square').find('img').addClass('img-portait');;
+            //$('.square').each(function ()
+            //{
+            //    if ($(this).find('img').width() > $(this).find('img').height()) {
+
+            //        return $(this).find('img').addClass('img-landscape');
+
+            //    }
+            //    else
+            //        return $(this).find('img').addClass('img-portait');
+            //});
         });
     </script>
 </asp:Content>

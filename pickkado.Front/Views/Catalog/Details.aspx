@@ -114,7 +114,6 @@
 
 <asp:Content ID="scriptsContent" ContentPlaceHolderID="ScriptsSection" runat="server">
     <%: Scripts.Render("~/bundles/jqueryval") %>
-    <script src="../../Scripts/jquery.zoom.js"></script>
     <style>
         .box-size {
             
@@ -162,9 +161,6 @@
         }
     </style>
     <script>
-        $(function () {
-            $(".zoom").zoom();
-        });
         $('.list-inline li.clickable').click(function () {
             //alert('a');
             var parent = $(this).parent();

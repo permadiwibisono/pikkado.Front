@@ -87,3 +87,7 @@
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ScriptContent" runat="server">
 </asp:Content>
+
+<asp:Content ID="Content5" ContentPlaceHolderID="navBar" runat="server">
+    <%Html.RenderAction("login_partial","account"); %>
+</asp:Content>

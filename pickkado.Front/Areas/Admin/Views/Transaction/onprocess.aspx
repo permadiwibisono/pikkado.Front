@@ -40,37 +40,7 @@
                                         </div>
                                     </div>
                                     <div class="card-body">
-                                        <table class="datatable table table-striped fadeInUp animated" cellspacing="0" width="100%">
-                                            <thead>
-                                                <tr>
-                                                    <th>Id</th>
-                                                    <th>Email</th>
-                                                    <th>Deadline</th>
-                                                    <th>Address</th>
-                                                    <th>Total</th>
-                                                    <th></th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                    <%foreach (var item in ViewBag.List)
-                                                      {%>
-                                                      <tr class="animated">
-                                                          <td><%:item.Id %></td>
-                                                          <td><%:item.Email %></td>
-                                                          <td><%:item.Deadline.ToShortDateString() %></td>
-                                                        <td><%:item.Address %></td>
-                                                          <td>Rp. <%:item.Total %></td>
-                                                        <td>
-                                                            <div class="btn-group">
-                                                                <button class="btn btn-success btn-confirm" name="<%:item.Id %>">Confirm</button>
-                                                                <button class="btn btn-primary btn-details" name="<%:item.Id %>">Details</button>
-                                                            </div>
-                                                            
-                                                        </td>
-                                                      </tr>
-                                                      <%} %>                      
-                                            </tbody>
-                                        </table>
+                                        <%Html.RenderAction("tab_onprocess"); %>
                                     </div>
                                 </div>
                             </div>
@@ -83,37 +53,7 @@
                                         </div>
                                     </div>
                                     <div class="card-body">
-                                        <table class="datatable table table-striped fadeInUp animated" cellspacing="0" width="100%">
-                                            <thead>
-                                                <tr>
-                                                    <th>Id</th>
-                                                    <th>Email</th>
-                                                    <th>Deadline</th>
-                                                    <th>Address</th>
-                                                    <th>No. Resi</th>
-                                                    <th></th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                    <%foreach (var item in ViewBag.DeliveringList)
-                                                      {%>
-                                                      <tr class="animated">
-                                                          <td><%:item.Id %></td>
-                                                          <td><%:item.Email %></td>
-                                                          <td><%:item.Deadline.ToShortDateString() %></td>
-                                                          <td><%:item.Address %></td>
-                                                          <td><%:item.ResiNumber %></td>
-                                                        <td>
-                                                            <div class="btn-group">
-                                                                <button class="btn btn-success btn-confirm-success" name="<%:item.Id %>">Confirm</button>
-                                                                <button class="btn btn-primary btn-details" name="<%:item.Id %>">Details</button>
-                                                            </div>
-                                                            
-                                                        </td>
-                                                      </tr>
-                                                      <%} %>                      
-                                            </tbody>
-                                        </table>
+                                        <%Html.RenderAction("tab_deliveryprocess"); %>
                                     </div>
                                 </div>
                             </div>
@@ -140,7 +80,7 @@
             $(document).on('click', '.btn-details', function () {
                 $.get('/admin/transaction/popup_detail_transaction/' + $(this).attr('name'),
                 function (data) {
-                    //$("#transactionDetailModal .modal-dialog").html(data);
+                    $("#transactionDetailModal .modal-dialog").html(data);
                     $('#transactionDetailModal').modal({ show: true });
                 });
 
@@ -169,5 +109,12 @@
             $("#MediumModal .modal-dialog").html('');
             // do something...
         });
+        function goToPage(placeholder, link, page) {
+            //alert('a');
+            $.get(link + '&page=' + page)
+                .done(function (data) {
+                    $(placeholder).html(data);
+                });
+        }
     </script>
 </asp:Content>

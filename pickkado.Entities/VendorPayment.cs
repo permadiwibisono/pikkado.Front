@@ -14,5 +14,13 @@ namespace pickkado.Entities
         public float Price { get; set; }
         public float OngkosKirim { get; set; }
         public string ResiNumber { get; set; }
+        public string Remarks { get; set; }
+        public string AlamatPickkado { get; set; }
+        public string NamaKurir { get; set; }
+        public string JenisPaket { get; set; }
+        public bool IsAccepted { get; set; }
+        public bool IsDeliver { get; set; }
+        public bool IsDelivered { get; set; }
+        public bool IsPaid { get; set; }
     }
 }

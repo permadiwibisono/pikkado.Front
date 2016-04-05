@@ -28,6 +28,7 @@ namespace pickkado.Front.Areas.Admin.Models
         public string Id { get; set; }
         public DateTime Date { get; set; }
         public string Email { get; set; }
+        public string VendorName { get; set; }
         public string ProductName { get; set; }
         public string Address { get; set; }
         public DateTime Deadline { get; set; }
@@ -37,6 +38,21 @@ namespace pickkado.Front.Areas.Admin.Models
         public string Status { get; set; }
         public string ResiNumber { get; set; }
         public List<TransactionPaymentModel> PaymentList { get; set; }
+    }
+    public class OutstandingViewModel
+    {
+        public string Id { get; set; }
+        public string VendorPaymentId { get; set; }
+        public DateTime Date { get; set; }
+        public string Email { get; set; }
+        public DateTime Deadline { get; set; }
+        public string ProductName { get; set; }
+        public float Total { get; set; }
+        public string VendorName { get; set; }
+        public bool IsAccepted { get; set; }
+        public bool IsDeliver { get; set; }
+        public bool IsDelivered { get; set; }
+        public string Status { get; set; }
     }
     public class TransactionPaymentModel
     {
@@ -87,5 +103,56 @@ namespace pickkado.Front.Areas.Admin.Models
     {
         [Required]
         public string TransactionId { get; set; }
+    }
+    public class PaginationViewModel {
+        public PaginationViewModel(int max,int now,int count)
+        {
+            MaxDisplay = max;
+            PageNow = now;
+            DataCount = count;
+            NextPageLink = "#";
+            PrevPageLink = "#";
+        }
+        public int MaxDisplay { get; set; }
+        public int PageNow { get; set; }
+        public string NextPageLink { get; set; }
+        public string PrevPageLink { get; set; }
+        public int DataCount { get; set; }
+        public int PageCount() {
+            return DataCount>0? DataCount/MaxDisplay+(DataCount%MaxDisplay>0?1:0):0;
+        }
+        public int NextPage()
+        {
+            return PageNow + 1;
+        }
+        public int PrevPage()
+        {
+            return PageNow - 1;
+        }
+        public int StartIndex()
+        {
+            return (PageNow - 1)*MaxDisplay;
+        }
+        public int EndIndex()
+        {
+            return DataCount >= StartIndex() + MaxDisplay ? StartIndex() + MaxDisplay : DataCount;
+        }
+    }
+    public class AllTransactionFilterViewModel {
+        public string Status { get; set; }
+        public string SortBy { get; set; }
+    }
+    public class OnProcessTransactionFilterViewModel
+    {
+        public string SortBy { get; set; }
+        public string Email { get; set; }
+        public string VendorName { get; set; }
+    }
+    public class DeliveryProcessTransactionFilterViewModel
+    {
+        public string SortBy { get; set; }
+        public string Email { get; set; }
+        public string NoResi { get; set; }
+        public string VendorName { get; set; }
     }
 }

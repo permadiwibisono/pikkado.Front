@@ -11,6 +11,7 @@ using System.Web.Mvc;
 
 namespace pickkado.Front.Areas.Vendor.Controllers
 {
+    [AuthorizeCustom(Roles = "Vendor")]
     public class ProductController : Controller
     {
         PickkadoDBContext db = new PickkadoDBContext();

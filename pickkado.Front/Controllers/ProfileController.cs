@@ -377,5 +377,58 @@ namespace pickkado.Front.Controllers
             
             
         }
+
+        [HttpPost]
+        public ActionResult ChangeUserDetail(User user)
+        { 
+            string message = "Success";
+            try
+            {
+                if (!ModelState.IsValid)
+                {
+                    message = "Error";
+                    return Json(new { IsError = true, Message = message });
+                }
+                var u = db.User.Find(user.Id);
+                u.BirthPlace = user.BirthPlace;
+                u.BirthDate = user.BirthDate;
+                u.Gender = user.Gender;
+                u.PhoneNumber = user.PhoneNumber;
+                //if (image != null && image.ContentLength > 0)
+                //{
+                //    if (image.ContentType == "image/png" || image.ContentType == "image/jpeg" || image.ContentType == "image/gif")
+                //    {
+                //        if (image.ContentLength < 2048000)
+                //        {
+                //            using (var reader = new System.IO.BinaryReader(image.InputStream))
+                //            {
+                //                u.Image = reader.ReadBytes(image.ContentLength);
+                //            }
+                //        }
+                //        else
+                //        {
+                //            message = "Max size of image is 2MB";
+                //            return Json(new { IsError = true, Message = message });
+                //        }
+                //    }
+                //    else
+                //    {
+                //        message = "Only .png, .jpg and .gif extension allowed";
+                //        return Json(new { IsError = true, Message = message });
+                //    }
+                //}
+                u.UpdatedBy = user.Email;
+                u.UpdatedDate = DateTime.Now;
+
+                db.SaveChanges();
+                return Json(new { IsError = false, Message = message });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { IsError = true, Message = ex.Message });
+            }
+
+
+        }
     }
 }

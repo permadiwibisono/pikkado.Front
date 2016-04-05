@@ -1,8 +1,8 @@
 ﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<pickkado.Front.Models.DetailPatunganViewModel>" %>
 
-<div style="position: fixed; background-color: rgba(10,10,10,0.6); top: 0; bottom: 0; width: 100%; height: 100%; left: 0; right: 0; z-index: 1100;">
-    <div style="position: relative; width: 820px; height: 560px; background-color: white; margin: auto; transform: translateY(-50%); top: 50%;">
-        <img src="../../Images/icon/close.png" style="position: absolute; top: -14px; right: -14px; cursor: pointer" id="btn-close" />
+<div class="modal-dialog" style="width: 820px; max-height: 560px;">
+    <div class="modal-content" style="border-radius:0;" >
+        <img src="../../Images/icon/close.png" class="bounce animated" style="position: absolute; top: -14px; right: -14px; cursor: pointer" data-dismiss="modal" id="btn-close" />
 
         <div style="width: auto; height: auto; padding: 20px">
             <div class="container-fluid title-underline" style="margin-bottom:40px">
@@ -89,7 +89,7 @@
 
 
 <script>
-    $('#btn-close').click(function () {
-        $("#popup").html('');
-    });
+    //$('#btn-close').click(function () {
+    //    $("#popup").html('');
+    //});
 </script>

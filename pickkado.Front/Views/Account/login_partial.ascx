@@ -9,11 +9,11 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" style="color:white;" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><%:((string)ViewBag.UserName).ToUpper()%> <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a href="../profile"><img src="../../Images/icon/ProfileWhite_Icon.png" /> Profile</a></li>
-                    <li><a href="#"><img src="../../Images/icon/PaymentConfirmation_Icon.png" />Payment confirmation</a></li>
-                    <li><a href="#"><img src="../../Images/icon/PendingPurchase_Icon.png" />Pending purchase</a></li>
-                    <li><a href="#"><img src="../../Images/icon/OnProcess_Icon.png" />Onprocess purchase</a></li>
-                    <li><a href="#"><img src="../../Images/icon/MessageWhite_Icon.png" />Messages</a></li>
+                    <li><a href="/profile"><img src="../../Images/icon/ProfileWhite_Icon.png" /> Profile</a></li>
+                    <li><a href="/profile?menu=unconfirmedpurchase  "><img src="../../Images/icon/PaymentConfirmation_Icon.png" />Payment confirmation</a></li>
+                    <li><a href="/profile?menu=pendingpurchase"><img src="../../Images/icon/PendingPurchase_Icon.png" />Pending purchase</a></li>
+                    <li><a href="/profile?menu=onprocesspurchase"><img src="../../Images/icon/OnProcess_Icon.png" />Onprocess purchase</a></li>
+                    <li><a href="/profile?menu=message"><img src="../../Images/icon/MessageWhite_Icon.png" />Messages</a></li>
                 </ul>
             </li> 
             <li ><div style="height:20px; margin-top:15px; border-right:1px white solid;border-left:1px white solid;"></div></li>
@@ -35,10 +35,6 @@
 
 <script type="text/javascript">
     $('#login').click(function () {
-        $.get("../account/login",
-        function (data) {
-            $("#popup").html(data);
-        });
-
+        ShowPopup('/account/login');
     });
 </script>

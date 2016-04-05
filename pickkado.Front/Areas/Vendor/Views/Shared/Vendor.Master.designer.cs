@@ -40,6 +40,15 @@ namespace pickkado.Front.Areas.Vendor.Views.Shared {
         protected global::System.Web.UI.WebControls.ContentPlaceHolder breadcumber;
         
         /// <summary>
+        /// navBar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder navBar;
+        
+        /// <summary>
         /// MainContent control.
         /// </summary>
         /// <remarks>
